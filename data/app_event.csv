@@ -1,0 +1,501 @@
+,ID,CREATED_AT,DEVICE_ID,IP_ADDRESS,USER_ID,UUID,EVENT_TYPE,EVENT_PROPERTIES,PLATFORM,DEVICE_TYPE
+rec00zBW8Sl810q2n,cfa0860e83a4c3a763a7e62d825349f7,2021-05-25T06:27:31.169Z,9ef0c765d6b38947c8093cbfe783424f,78.198.148.237,2c5bcd5439b4ef5c18609a436559e70a,47e98cb482d179b3c5259738c35e347f,Button Clicked,"{
+  ""label"": ""Claim Action"",
+  ""questionId"": ""selected_single"",
+  ""questionType"": ""SELECT_SINGLE"",
+  ""screen"": ""help_claim_step"",
+  ""session_id"": 1621931146392,
+  ""skip"": true,
+  ""stepId"": 2304950
+}",iOS,Apple iPhone SE 2nd Gen
+rec01JbmPykYz9TzH,d67d8ab4f4c10bf22aa353e27879133c,2021-05-06T09:57:44.058Z,243df3faff47e49550d0c8a9eb906a30,80.214.215.164,e614850c9f96ea1c08e098e7e156fa0d,53d6d44956a1757c402b1317f9be4d50,Viewed profile Screen,"{
+  ""session_id"": 1620302243544
+}",Android,
+rec02mmmFd8FVA368,ed519dacc89b2bead3f453b0b05a4a8b,2021-05-15T10:31:18.791Z,6470df6a560de5c4f8521c654e3e70a5,195.36.207.191,eb53abba5d9c047f416b3fd7ff491349,c8c956ca1e64b242a5822dee529fb67c,Chart Load Ended,"{
+  ""label"": ""preview elec"",
+  ""screen"": ""protect_door_settings"",
+  ""session_id"": 1621081873327
+}",Android,Google Pixel 2 XL
+rec02vxxDy9epGNT6,aa68c75c4a77c87f97fb686b2f068676,2021-05-11T15:59:40.810Z,061a45ed19d1ef9c871644a544c9b236,77.152.20.45,90aef91f0d9e7c3be322bd7bae41617d,b4b474a2c59c2409562852f5d32c82a1,Notification Received,"{
+  ""from_background"": true,
+  ""luko_landing_page"": ""DOOR_EVENTS"",
+  ""luko_push_type"": ""door_event_start"",
+  ""luko_url"": ""luko://protect-door"",
+  ""session_id"": 1620755832387
+}",Android,
+rec04wajrQZUn7iIf,077e29b11be80ab57e1a2ecabb7da330,2021-05-18T09:23:42.483Z,48fef6c2623987e338a97ddf221c54ed,165.169.114.228,8071b4c2068b888519df6f9643433a5b,b312158b372238b41f58d366b4ac7c84,Viewed contract_review Screen,"{
+  ""session_id"": 1621336997521,
+  ""type"": ""SH""
+}",iOS,
+rec05GPj1AIqBxqef,0a09c8844ba8f0936c20bd791130d6b6,2021-05-20T05:04:23.814Z,51c84a726499d0e80296780c35925d89,176.130.119.170,88ca57035d308d15c0cf62f3414b3eef,ee8ebceb36efc19b4bbf6197ae3d525f,Viewed profile_paymentsMethod Screen,"{
+  ""session_id"": 1621494085380
+}",iOS,Apple iPhone 7
+rec06rFh6HAcebuOc,f5c3dd7514bf620a1b85450d2ae374b1,2021-05-31T04:53:32.320Z,a993bfd029e08a258903b26e91a4f8a5,88.126.244.73,ab66ba6600d9c4245b3f3c52121a6da5,9ee76da54571046ab8c77d38d1aa5dd5,Chart Load Started,"{
+  ""label"": ""preview elec"",
+  ""screen"": ""protect_weekly"",
+  ""session_id"": 1622444012080
+}",Android,
+rec07gxIiVgfFnAE4,ac1dd209cbcc5e5d1c6e28598e8cbbe8,2021-05-10T23:53:51.192Z,7bd4fc9e7e33c556ce1d86b882f71ebc,81.64.32.65,e4757a081c2ad63a1ffb0275f7f19219,b13b4100779737289e3c39986766508a,Application Backgrounded,"{
+  ""screen"": ""contract_guarantee_detail"",
+  ""session_id"": 1620698005475
+}",iOS,Apple iPhone XS Max
+rec084cMmSJ9O1wMn,98dce83da57b0395e163467c9dae521b,2021-05-23T06:32:58.767Z,48ad39c4071bb6a550b961aa9818eb1c,78.114.88.4,,14e5b62a9235d142391ce7c71e2f71b7,Authorization Requested,"{
+  ""label"": ""Audio Recording"",
+  ""screen"": ""help_claim_step"",
+  ""session_id"": 1621758187242
+}",Android,Xiaomi Redmi Note 8 Pro
+rec08wsH4PRr5N4vM,1373b284bc381890049e92d324f56de0,2021-05-02T10:21:09.894Z,ec24cf3ef5dc40510a96213bb3dfa3dd,176.148.212.148,ce7d20740ed380b2de84d434af383142,4fb18e5aa8baa2dcfb78cf49007a8ca9,Notification Received,"{
+  ""from_background"": true,
+  ""luko_landing_page"": ""DOOR_EVENTS"",
+  ""luko_push_type"": ""door_event_start"",
+  ""luko_url"": ""luko://protect-door"",
+  ""screen"": ""protect_door_events"",
+  ""session_id"": 1619956525127
+}",Android,
+rec09dJUm0AZ5kf3K,9f61408e3afb633e50cdf1b20de6f466,2021-05-11T17:20:06.634Z,c513236631b7c7f7020c5911a7f59806,88.161.13.212,5106cad7cd382c408b75bd4f634d0f7c,c92cd7a62c71d5cd2ad71a64dda8a9d3,Application Backgrounded,"{
+  ""screen"": ""contract_documents"",
+  ""session_id"": 1620760777809
+}",iOS,Apple iPhone 12 Pro Max
+rec0A31BRDMqwrizl,2bb232c0b13c774965ef8558f0fbd615,2021-05-06T10:51:49.257Z,b92f8af58f7ecd3e3c423707ff18d16e,88.124.55.208,ee7135cf8de13d05a923cf9e3a2de1f1,cf048c8beb622236f051037d6cabf0f4,Application Opened,"{
+  ""from_background"": false,
+  ""session_id"": 1620305509004
+}",Android,
+rec0AJBxBHnAcrpHc,8a0e1141fd37fa5b98d5bb769ba1a7cc,2021-05-30T19:25:25.102Z,77ad34bcc04905af38a4549a0072e87a,86.234.198.121,6ae6f5e0e2e090ad91d393562f206c0b,24577a126abd02124c5a2df7cdfdb4d1,Viewed help_request Screen,"{
+  ""session_id"": 1622409922736
+}",Android,Samsung Galaxy S9
+rec0Aup4PSDrhmHNG,9bf31c7ff062936a96d3c8bd1f8f2ff3,2021-05-12T11:56:06.984Z,0a6bb3da3a0db276b9898246aa676ea8,92.95.75.153,c3433e1b5e6679dee756200209490677,8a7904e787f90cf99efddc2d19d77753,Application Backgrounded,"{
+  ""screen"": ""profile"",
+  ""session_id"": 1620827729109
+}",iOS,Apple iPhone XR
+rec0BlFgZlfCE8NDl,32bb90e8976aab5298d5da10fe66f21d,2021-05-13T19:47:20.650Z,60b98ac15ba682ddc2ca38b29d9b72c8,193.56.243.64,ccb2690df1e470fe84877788e4ff24de,29ca45fdc479aa7fb03b5757b4cc902f,Application Closed,"{
+  ""screen"": ""cover"",
+  ""session_id"": 1620941893309
+}",Android,
+rec0C4Fc5mPPjLomL,556f391937dfd4398cbac35e050a2177,2021-05-09T10:23:00.801Z,115d25849a402acf3e3f05d466a2c3eb,89.157.220.13,ec2dd97b3142e7a0d30517eb57998209,6a534d984f6378a2866fa49fb7c1de56,Application Opened,"{
+  ""from_background"": false,
+  ""session_id"": 1620562980722
+}",Android,OnePlus 5T
+rec0D82NpjozDx5ZM,f899139df5e1059396431415e770c6dd,2021-05-07T12:43:55.195Z,3863be4117aace9c95cad0212e11bb21,90.110.210.174,94b21f11c7148f780f842edeee360ddb,52c8d5d36cf76683e05e581bc0ffb058,Viewed help_claim_step Screen,"{
+  ""claimType"": ""TrafficAccident"",
+  ""questionId"": ""2191588"",
+  ""questionType"": ""FORM"",
+  ""session_id"": 1620398099588,
+  ""stepId"": 2191588
+}",Android,Samsung Galaxy S8
+rec0DGIgBIPKFjEjh,63dc7ed1010d3c3b8269faf0ba7491d4,2021-05-27T17:56:00.366Z,baa2356b0fb866788c84b3fc3ac8246d,80.215.196.117,e7658bb2b96f04420bcb85904de7ef3c,3433e803d03515cba886bca73f8601a4,Viewed help_request Screen,"{
+  ""session_id"": 1622145121011
+}",Android,
+rec0DPaFupzmBgml5,7f1de29e6da19d22b51c68001e7e0e54,2021-05-21T15:29:14.659Z,766231251230d88c1ee9d2ecf54ee3b5,37.169.49.16,7413069153a0572841568348b478799c,b2503301b7d64b67daaae9589fa74d6e,Viewed help_claim_step Screen,"{
+  ""claimType"": ""Other"",
+  ""questionId"": ""2291647"",
+  ""questionType"": ""FORM"",
+  ""session_id"": 1621618072788,
+  ""stepId"": 2291647
+}",Android,Huawei P20 Pro
+rec0FDwNdwwlDvVn8,2a79ea27c279e471f4d180b08d62b00a,2021-05-25T05:53:47.392Z,a42d831df1ad9e53453a5cb77a8c0dbf,80.14.223.156,8f2ba96517924ee3d08ec132c4bad818,0b115631dd4df37e662c4f99e3491c6a,Application Opened,"{
+  ""from_background"": true,
+  ""screen"": ""help_claim_step"",
+  ""session_id"": 1621928773776
+}",iOS,Apple iPhone 12 Mini
+rec0H8a4mnPPxqxeB,e369853df766fa44e1ed0ff613f563bd,2021-05-24T17:10:55.685Z,617365f9eb8464813f68093b2443787f,93.23.199.28,286313479c3c890d2aebb38af6375722,b9e89e10a35262ae05e8594121766395,Viewed profile Screen,"{
+  ""session_id"": 1621883435025
+}",iOS,Apple iPhone 6s
+rec0K1oMQ2Rq813D6,c16a5320fa475530d9583c34fd356ef5,2021-05-03T16:16:44.249Z,cb7b248b6138d787c0eaa3dac48fc8fa,81.67.204.39,10f411d1739e20647698260c19f752d9,9879fffd30a9c6e5f6e87e92bda88daf,Viewed contract_beneficiaries Screen,"{
+  ""session_id"": 1620065765980,
+  ""type"": ""HU""
+}",iOS,Apple iPhone X
+rec0Kix0rzOHHXcQZ,1e6e0a04d20f50967c64dac2d639a577,2021-05-03T13:03:07.077Z,cfdac623ad4ca22103ce69d646f89372,83.159.41.125,4c51f2883846aa0af21c588c539dfd67,ccad511fc517eeaf61c5d5bcef2ab1f0,Banner Viewed,"{
+  ""label"": ""error"",
+  ""screen"": ""protect"",
+  ""session_id"": 1620053393396,
+  ""text"": ""Nous n'arrivons pas à charger vos données""
+}",Android,Samsung Galaxy A51
+rec0LQv88SIFWprZd,ad3019b856147c17e82a5bead782d2a8,2021-05-10T04:01:10.361Z,c892a66efa93373612f927fb3c2da58c,86.252.79.176,1f51aad17234cc2b94132c56f1be825a,572f1cf4eb115a0b60bc2a2fe368d982,Chart Load Ended,"{
+  ""label"": ""preview elec"",
+  ""screen"": ""protect_weekly"",
+  ""session_id"": 1620626448915
+}",iOS,Apple iPhone XS
+rec0MjpnX1XREzFpp,32bb90e8976aab5298d5da10fe66f21d,2021-05-05T04:39:13.884Z,ead4646239cb83d06e1e0cc3cfe26644,92.184.102.82,9453e74d5030bb8351cdb998b5ac2a65,2cbb1ce0ec40cdb3e8f3bdd870b7e221,Button Clicked,"{
+  ""label"": ""Claim Action"",
+  ""questionId"": ""selected_single"",
+  ""questionType"": ""SELECT_SINGLE"",
+  ""screen"": ""help_claim_step"",
+  ""session_id"": 1620196496448,
+  ""skip"": true,
+  ""stepId"": 2171828
+}",Android,
+rec0NmU9EWbMDnY5T,c7e1249ffc03eb9ded908c236bd1996d,2021-05-27T09:21:04.135Z,e6c344ad9c5ab5c85e58e771075d1d8c,92.184.108.212,da9984d6a3693bda4630d17e502adf50,cf3b3ce9bab89d4f176459ce1737d5da,Viewed cover Screen,"{
+  ""session_id"": 1622114463614
+}",iOS,Apple iPhone 8 Plus
+rec0OLDyzMGdPTFZe,642e92efb79421734881b53e1e1b18b6,2021-05-18T13:35:24.891Z,8c9be3781f2dbdd6bab12f953b596968,91.166.145.2,13fbdc337357ccd04a6221c7f1f6ab84,198ab9bff31cee7b244bb609eb2ad88b,Viewed profile Screen,"{
+  ""session_id"": 1621352120196
+}",iOS,Apple iPhone XR
+rec0OVj0IHmRLIRfn,821fa74b50ba3f7cba1e6c53e8fa6845,2021-05-27T06:26:44.076Z,3e13a64b67a3ba20d0da012cafc4a2b2,37.173.143.35,3daa154a9f9667327e00f23036adfc12,21d91c648e92a562f245ef4bc01ad2b5,Viewed contract_review Screen,"{
+  ""session_id"": 1622103821459,
+  ""type"": ""HU""
+}",iOS,Apple iPhone XR
+rec0OhTx7UIIsn5um,35f4a8d465e6e1edc05f3d8ab658c551,2021-05-21T02:19:10.530Z,d681f14213f52c93bfe273f8cecc6ef5,88.126.127.136,e819c1e5761f05ebcf670a60569c3457,e0a6bc85afae217ea8b009dc4e79189b,Viewed help_request Screen,"{
+  ""session_id"": 1621570744306
+}",Android,
+rec0PLkoCpTahgQzU,fc221309746013ac554571fbd180e1c8,2021-05-20T11:01:27.250Z,34208e9c03fa6a504437d40b347fa260,90.63.216.71,dd3868be8bf51a1068b9bd1b25eeb042,bef5c58c13e210ad804ffdbda0ebba08,Application Backgrounded,"{
+  ""screen"": ""help_request"",
+  ""session_id"": 1621515497302
+}",iOS,Apple iPhone 11
+rec0PxBZc15ofi2HP,18d8042386b79e2c279fd162df0205c8,2021-05-05T18:44:21.232Z,e0ac9ea99e2ef4d14418c38e1fc51f35,91.169.22.158,6648ad97930b490656909bae83431704,34b09cf9cc63ba2492b55d12879c5bb3,Button Clicked,"{
+  ""contractId"": ""LUKO_HU_2112098530"",
+  ""label"": ""Contract Item"",
+  ""screen"": ""cover"",
+  ""session_id"": 1620247458317
+}",Android,Samsung Galaxy S20
+rec0Q4VnWxyPTcnx2,d1c38a09acc34845c6be3a127a5aacaf,2021-05-14T22:13:27.399Z,695cca91576f4cfd1bb1ac51ed462d98,82.124.129.153,8069cc480d85d45e6f1dbc5645aa2c88,bde5b54b3aec8c23c0030dbf97289d83,Viewed profile Screen,"{
+  ""session_id"": 1621037601182
+}",Android,
+rec0QLZ5unKXHxVa2,76dc611d6ebaafc66cc0879c71b5db5c,2021-05-25T16:44:34.763Z,a3ab0d6bf53fee87ed8c731c936e11d2,90.127.60.78,f42ba0ba9ae0f0c04ff6b0ada0708030,484fac7226a3012980c51bf8193d684e,Application Closed,"{
+  ""screen"": ""profile"",
+  ""session_id"": 1621967818485
+}",iOS,Apple iPhone 7
+rec0RIZA8QOYAOG12,38af86134b65d0f10fe33d30dd76442e,2021-05-10T10:17:11.576Z,52170ef7166ea031e25676a6863a0393,88.161.96.180,33363f7b038639dc7ecf8c4a2d17de66,ecbd02d907e772862210eda93ddcf8c6,Viewed cover Screen,"{
+  ""session_id"": 1620649025305
+}",Android,
+rec0RnZWCLrX1wWui,c8ffe9a587b126f152ed3d89a146b445,2021-05-08T06:33:45.429Z,02ced1d45c496ca26e2afd4ac60581ca,78.119.82.200,30a457d687412c2f2e4fe3a2eb43aa8b,c4884c69bb2e051c8993143a509fe372,Button Clicked,"{
+  ""label"": ""Claim Action"",
+  ""questionId"": ""2193243"",
+  ""questionType"": ""INFO"",
+  ""screen"": ""help_claim_step"",
+  ""session_id"": 1620461721447,
+  ""skip"": false,
+  ""stepId"": 2193243
+}",Android,
+rec0Th7ALIFLVCIBf,9f61408e3afb633e50cdf1b20de6f466,2021-05-11T05:56:50.636Z,ed52e6c2e3e83409f86e3ab36cbda616,78.202.164.51,462d7db49c44caea8c4b23fe6ba238f7,dffd264539ea94878cc4a2fe1c8b87a7,Button Clicked,"{
+  ""contractId"": ""LUKO_HI_2014033456"",
+  ""label"": ""Contract Item"",
+  ""screen"": ""cover"",
+  ""session_id"": 1620719791201
+}",iOS,Apple iPhone SE
+rec0UnhHhgMHsT02f,696b35cc35e710279b9c2dedc08e22d7,2021-05-27T19:13:57.529Z,f2e7933f6385ce8108e21620872604ef,82.65.238.27,1c949fb44c89dbca5fbdb5f01ef9ad85,95617ac6cb1766e8c08cb5447e7a1025,Application Closed,"{
+  ""screen"": ""protect_door_events"",
+  ""session_id"": 1622149618538
+}",Android,
+rec0VszsiRQs9CvEa,286674e3082feb7e5afb92777e48821f,2021-05-06T08:28:27.396Z,76210eed0d4097d51535c45405e622ce,89.94.104.120,f50c1f06247234890016d83d0a5685e3,1e37365391ef88a20e87eb634b56aa98,Application Opened,"{
+  ""from_background"": false,
+  ""session_id"": 1620296907198
+}",Android,
+rec0VwlouFxtV89uL,42e7aaa88b48137a16a1acd04ed91125,2021-05-21T07:33:55.771Z,3b19c0d9f1b210d6051e9bc6f9cc133f,94.239.101.214,,d6d1ceb8019301888763da0cf8857b04,Viewed welcome_login Screen,"{
+  ""session_id"": 1621589608385
+}",iOS,Apple iPhone 11
+rec0XZTZQOQv8BhiB,e2c420d928d4bf8ce0ff2ec19b371514,2021-05-05T05:05:06.976Z,db93a3632e609b9ef4dbd946ae80bf47,93.23.18.51,558764896413eff70141ee8e38357365,118d0c123482dfa5a8ef3a14f21a0568,Button Clicked,"{
+  ""label"": ""Android Back"",
+  ""screen"": ""profile_invoices"",
+  ""session_id"": 1620198288580
+}",Android,Samsung Galaxy S8
+rec0YerYHuG0POxSM,c51ce410c124a10e0db5e4b97fc2af39,2021-05-12T15:47:54.059Z,110663950a54b26199799af9c193afa3,37.164.51.51,,fe58f4ab1458f5308eb8bac7d83e3161,Viewed welcome_login Screen,"{
+  ""session_id"": 1620841671662
+}",Android,Samsung Galaxy S8+ Duos
+rec0Z5W5uFqVBxtB0,c74d97b01eae257e44aa9d5bade97baf,2021-05-26T08:30:13.847Z,6e78fddc9a953cf0b9818123b45ecefe,92.184.123.3,,a6e544e899e24528f642967fb17878c6,Viewed contract_review Screen,"{
+  ""session_id"": 1622024902387,
+  ""type"": ""HU""
+}",Android,
+rec0ZVPjAH4cjp2T6,32bb90e8976aab5298d5da10fe66f21d,2021-05-04T05:39:38.222Z,60d04120499e0a8501ab78f40e7d469d,93.5.152.175,7fc34eee4c21d2e8aacb9bb7774a27ea,6a43c173dbdca47368f3b7b76e04cef6,Viewed profile_paymentsMethod Screen,"{
+  ""session_id"": 1620113331414
+}",Android,Samsung Galaxy S10
+rec0b42dQ9Yk6Ic8v,3c59dc048e8850243be8079a5c74d079,2021-05-09T15:56:04.383Z,f385fb0c451906ed5ff403ecdf5404bf,155.138.156.55,,5fdaa544837f5708bbc22b1bc5001537,Viewed profile Screen,"{
+  ""session_id"": 1620582859877
+}",iOS,Apple iPhone XR
+rec0cU3r8haDWApqq,e58cc5ca94270acaceed13bc82dfedf7,2021-05-12T15:52:03.243Z,0f6f0548548ecb70d112a1fe68c2d56b,80.215.247.174,386acf0ec55406d979f9b7517c81d7e8,33e30d7af49b37780826d129e5a45914,Notification Received,"{
+  ""from_background"": true,
+  ""luko_landing_page"": ""DOOR_EVENTS"",
+  ""luko_push_type"": ""door_event_start"",
+  ""luko_url"": ""luko://protect-door"",
+  ""session_id"": 1620841923011
+}",Android,
+rec0dah9RXMhOXe9b,3295c76acbf4caaed33c36b1b5fc2cb1,2021-05-20T09:50:24.150Z,9b884449b7282c7d7a9a450a38a1f562,90.73.91.160,fa5b8744a34319c7c9f360b7cc4eb503,4dedfccec677f1ceb7e744a98bc7e1eb,Viewed cover Screen,"{
+  ""session_id"": 1621511423263
+}",Android,
+rec0dqw7jjXTtnmvN,33e75ff09dd601bbe69f351039152189,2021-05-09T17:10:50.010Z,4ac7401746bd476a5a9a8057e1f62fd2,93.14.110.69,ecd5b6ed957095d3f3e26a952f61414a,176b56d0209307ccc353a574e93b5592,Viewed profile Screen,"{
+  ""session_id"": 1620587416911
+}",iOS,Apple iPhone XS
+rec0eT3tscVokeiEW,e4da3b7fbbce2345d7772b0674a318d5,2021-05-05T07:59:14.443Z,4de8d8a2f3b2ef89d040b964732fa5ec,81.185.165.123,,7f26185d0314a5572433c0040373f02f,Application Opened,"{
+  ""from_background"": true,
+  ""screen"": ""welcome_login"",
+  ""session_id"": 1620208746443
+}",Android,
+rec0gcoqEpp7rKvpZ,d645920e395fedad7bbbed0eca3fe2e0,2021-05-21T07:42:29.336Z,38416947c6d66c9eeb99c6c7eaf3cc84,80.214.26.219,1bfa3e3d77bcbda9de9d8310018edd4d,a44b9abc86016dc9c643eaa10bce020e,Viewed cover Screen,"{
+  ""session_id"": 1621590146534
+}",Android,
+rec0hNtZv3bDtCMdX,2b44928ae11fb9384c4cf38708677c48,2021-05-14T06:19:46.000Z,643da190d4ec6da5a61476144b7ffabb,78.197.231.58,e63586444f8863dec2563181f1feb069,5fd99ada01e2bc65746ed96325addd5b,URL Opened,"{
+  ""launch"": false,
+  ""screen"": ""help_claim_step"",
+  ""session_id"": 1620980359771,
+  ""supported"": true,
+  ""url"": ""luko://claims/open/WaterDamage""
+}",Android,
+rec0hzlWKGnKM53ub,e6384711491713d29bc63fc5eeb5ba4f,2021-05-11T02:56:20.481Z,1b500804c5da4cb07043978879998a6b,5.51.140.101,48aedb8880cab8c45637abc7493ecddd,8b23c80afad8e1033390068f991aa7a1,Viewed protect Screen,"{
+  ""has_ad"": ""weatherAlert"",
+  ""session_id"": 1620708978196
+}",Android,
+rec0id4bYn2qWmMe9,3295c76acbf4caaed33c36b1b5fc2cb1,2021-05-17T07:01:58.469Z,5c079c5a259fa61884dcf02943fcad15,87.88.167.199,14d24ced8f7969ee34dd72bb20ecbf63,ba3bdbfb06e376f2ff86ebd15360bb51,Viewed cover Screen,"{
+  ""session_id"": 1621242117764
+}",Android,Huawei P20 Pro
+rec0jyep8SOJxJbWM,35051070e572e47d2c26c241ab88307f,2021-05-21T02:45:19.836Z,6d60b91b4fbb6edffb31f5e3a0d5f2c8,88.161.254.223,0e6a1aead23ebf5eb5d6edb591cafa63,74acddbb626f35262fd91b29901babb7,Application Closed,"{
+  ""screen"": ""cover"",
+  ""session_id"": 1621572273116
+}",Android,
+rec0kSzvzquayKTN9,8e98d81f8217304975ccb23337bb5761,2021-05-22T14:21:40.918Z,02daa0353f9af7ad880cfb48e8c0f2cd,87.88.40.77,,ecb1b489c37714ee54223b4c8913582d,Login Failed,"{
+  ""screen"": ""welcome_signup"",
+  ""session_id"": 1621699801701
+}",Android,
+rec0kTlR8UAfDkH8E,ad61ab143223efbc24c7d2583be69251,2021-05-14T04:57:10.794Z,133d1b63d134d4dae4a2790c7b2cd3f0,78.197.139.215,6262fd2e1b7db9411e4d47ad093a1397,18f531b3706308109fa5a7d0808ec047,Viewed help_claim_step Screen,"{
+  ""claimType"": ""WaterDamage"",
+  ""questionId"": ""2240136"",
+  ""questionType"": ""FORM"",
+  ""session_id"": 1620974932989,
+  ""stepId"": 2240136
+}",Android,Samsung Galaxy A50
+rec0ksifGigpsUJSe,d67d8ab4f4c10bf22aa353e27879133c,2021-05-30T14:46:46.272Z,cc1ede3790d28ee34444a90a3efb7855,92.184.105.26,,6760fe3c8f7cef896311ec6ed9126805,Button Clicked,"{
+  ""documentType"": ""specialTerms"",
+  ""label"": ""Document Open"",
+  ""screen"": ""contract_documents"",
+  ""session_id"": 1622393109540
+}",iOS,Apple iPhone X
+rec0mmzKAttCuxE9T,6ea9ab1baa0efb9e19094440c317e21b,2021-05-28T08:56:10.252Z,d66f1c060dea38ea0dd7e36ba26aafc5,193.57.121.16,5287199a4f04696a90eed8efa9d999c9,2c8b3c1943393700c25128fc00ceb283,Viewed profile_referral_detail Screen,"{
+  ""session_id"": 1622199271429
+}",iOS,Apple iPhone 11
+rec0nYZgymDu75Zmm,299fb2142d7de959380f91c01c3a293c,2021-05-11T06:25:40.483Z,49d58e815ebc8a6f75d02be634113e56,78.115.187.12,66a733febe222a5f3ae377f413c19305,1fb28419948029decf068dc49a8315c5,Chart Load Started,"{
+  ""label"": ""day elec"",
+  ""screen"": ""protect_elec_graph"",
+  ""session_id"": 1620721502865
+}",Android,
+rec0nwpTQKLeVkn6y,a5771bce93e200c36f7cd9dfd0e5deaa,2021-05-05T08:42:42.149Z,fc6f3dfe75c0e8915b19c1265070a0d4,93.19.126.50,,ac7f48c50559f95d2f1223fae79e5c5f,Viewed help_claim_step Screen,"{
+  ""claimType"": ""WaterDamage"",
+  ""questionId"": ""date"",
+  ""questionType"": ""DATE_PICKER"",
+  ""session_id"": 1620211097641,
+  ""stepId"": 2175320
+}",Android,OnePlus 5T
+rec0nz0NNiuULs0OE,234833147b97bb6aed53a8f4f1c7a7d8,2021-05-03T12:17:04.043Z,d14cbd6667025c72c3b1c35c67856e46,90.120.122.197,,5a0bac1751031b005d8202689b6ed65e,Application Opened,"{
+  ""from_background"": false,
+  ""session_id"": 1620051424013
+}",iOS,
+rec0p1QO6u5QbKjL9,daca41214b39c5dc66674d09081940f0,2021-05-12T15:44:54.763Z,205713e0e07d7f8e6dca276202347c17,213.245.237.152,0a8e127a7b5717b3aee6c1f0f508d1b0,68c7f5206c8eb9aaa8c937e8b0601f4a,Notification Tapped,"{
+  ""actionIdentifier"": ""com.apple.UNNotificationDefaultActionIdentifier"",
+  ""aps.alert.body"": ""Mouvement de votre porte détecté"",
+  ""aps.alert.title"": ""Alerte Luko"",
+  ""aps.content-available"": ""1"",
+  ""gcm.message_id"": ""1620839471939569"",
+  ""google.c.a.e"": ""1"",
+  ""google.c.sender.id"": ""311966152125"",
+  ""luko_landing_page"": ""DOOR_EVENTS"",
+  ""luko_push_type"": ""door_event_start"",
+  ""luko_url"": ""luko://protect-door"",
+  ""screen"": ""protect_door_events"",
+  ""session_id"": 1620840494390,
+  ""title"": ""Alerte Luko"",
+  ""userInteraction"": 1
+}",iOS,Apple iPhone XR
+rec0pja1VW8rf0W6B,b4a528955b84f584974e92d025a75d1f,2021-05-25T18:35:19.023Z,9e94d64b06a6072acfdbcaa3f59ded08,77.153.164.61,9ed010a99d123f1ef951a22c8f9cf3f6,3ab20574a48aed949a3d005583da89f4,Viewed protect Screen,"{
+  ""cards"": [
+    ""Bridge""
+  ],
+  ""items"": [
+    ""Settings""
+  ],
+  ""notifications"": [],
+  ""session_id"": 1621974867202
+}",iOS,
+rec0qwCsAufcdJ06u,045117b0e0a11a242b9765e79cbf113f,2021-05-21T16:38:22.150Z,d57f253635630570eb2b4dfba0c27033,86.218.127.207,c92b26f68689c7af56b0b08721897732,c8613f8392a5d149adb544a163596d66,Banner Viewed,"{
+  ""label"": ""error"",
+  ""screen"": ""contract_documents"",
+  ""session_id"": 1621622108375,
+  ""text"": ""Nous n'arrivons pas à charger vos données""
+}",iOS,Apple iPhone 8
+rec0sBa1X478pVGF2,a8c88a0055f636e4a163a5e3d16adab7,2021-05-27T13:23:25.584Z,dd4a85d8a23e0fd020c76d01975071e8,80.215.128.240,28d0c7b70e878a43a87a55fe5811d9ce,178dd151f66dab9eb2b2e3126500d3d8,Button Clicked,"{
+  ""claimType"": ""Other"",
+  ""label"": ""Help Topic"",
+  ""screen"": ""help_request"",
+  ""session_id"": 1622128477691
+}",iOS,Apple iPhone XS Max
+rec0sksoh9QQjrTeG,3147da8ab4a0437c15ef51a5cc7f2dc4,2021-05-15T04:00:18.801Z,9348ea2a4c61b7ecfebfe15351eb6b3a,37.167.31.248,58e25a238f48a1611ff9fcb270ddab41,8af2173ed3c7f37dc3fa63d9a7607554,Application Opened,"{
+  ""from_background"": false,
+  ""session_id"": 1621058418728
+}",Android,
+rec0uLWmUw4QhbOtK,a3c65c2974270fd093ee8a9bf8ae7d0b,2021-05-11T14:02:21.918Z,2aab4356b69d45db1a6770169a6cfea1,213.3.15.108,7df6f703a328f82afb7eebbdfa6cf2ba,0e2048dc4c9c9e2fc35860e5b3cdeb46,Viewed help_claim_step Screen,"{
+  ""claimType"": ""Vol / Vandalisme"",
+  ""questionId"": ""user_upload"",
+  ""questionType"": ""DOCUMENT_UPLOAD_MULTIPLE"",
+  ""session_id"": 1620748882305,
+  ""stepId"": 2189000
+}",Android,Samsung Galaxy S10+
+rec0vc8BKlvEaOx12,b9228e0962a78b84f3d5d92f4faa000b,2021-05-22T06:10:46.547Z,e5e33292a88e4c37f01cb8377c895acf,91.168.74.227,517da335fd0ec2f4a25ea139d5494163,7f9cd6a9e5164fa21602aa6fc76e4c76,Error Occured,"{
+  ""devMessage"": ""error fetch weather alerts data: Error: Network error: Network request failed"",
+  ""screen"": ""help_request"",
+  ""session_id"": 1621670962766,
+  ""showed"": ""NO"",
+  ""type"": ""FETCH_USER_FAILURE""
+}",iOS,Apple iPhone 12 Pro
+rec0vmnkLkThlB4TV,9a1158154dfa42caddbd0694a4e9bdc8,2021-05-19T13:45:02.122Z,3056c5a9259c7d996d81cfc83e2a70b4,93.23.16.206,4377a4d8a73414cf581823e26a2de9c7,cae3251e01e1bc54f4478abff14b1fbb,Application Backgrounded,"{
+  ""screen"": ""cover"",
+  ""session_id"": 1621439098398
+}",iOS,Apple iPhone 8
+rec0vqnD7CHvYaMCg,c51ce410c124a10e0db5e4b97fc2af39,2021-05-22T05:47:15.447Z,2b4be0962943ceffde02b00e17064b13,93.21.46.239,,2b4548b6076f0ba3ab8eebc26e872ea5,Viewed profile_invoices Screen,"{
+  ""session_id"": 1621669585649
+}",Android,
+rec0wMDM1jDrJx8DU,1ff8a7b5dc7a7d1f0ed65aaa29c04b1e,2021-05-09T14:11:47.268Z,abe6cae10a8fd06f822fd660d9c3b189,176.132.130.52,,cb716b3ba3fdcb358eb61f09b38208ca,Application Closed,"{
+  ""session_id"": 1620576246965
+}",iOS,Apple iPhone 12
+rec0y04uCq8LShILI,34173cb38f07f89ddbebc2ac9128303f,2021-05-15T06:44:03.472Z,545716bb55ee81ab0a31c50cf4649bc0,93.23.13.216,b32707b6946f4eae31db7b3cb20d4f9f,2122f1e70e9942b85e4709df25e0bd25,Application Closed,"{
+  ""screen"": ""help_request"",
+  ""session_id"": 1621067518363
+}",iOS,Apple iPhone 11
+rec0y4WGuWfE9se2O,ec8956637a99787bd197eacd77acce5e,2021-05-20T19:23:50.376Z,af3c747424cf89f6d3e344b392197862,193.56.242.72,0554ec66129b068ef7c80a0348340cbd,6945d7c98009c6aa98925d255ba044ca,Viewed profile Screen,"{
+  ""session_id"": 1621545803210
+}",iOS,Apple iPhone 12
+rec0yHwcdS3QsvmWY,8f14e45fceea167a5a36dedd4bea2543,2021-05-31T08:07:49.654Z,b73e33065e7845f30725007c80011d41,191.101.31.46,,4c3bda436d2078ba609e111a6d10b160,Viewed welcome_login Screen,"{
+  ""session_id"": 1622455666468
+}",Android,Samsung Galaxy S8
+rec0z8jNeFvAogP0e,d395771085aab05244a4fb8fd91bf4ee,2021-05-05T14:17:05.654Z,97a7b701af1ef431629cefaeb2ff04aa,176.185.184.13,eb50a7dddf1a267d68eafc0f45a24ca2,25b8992c403760aeef03e69524b8e0ac,Viewed protect_door_config_slideMount Screen,"{
+  ""session_id"": 1620231380276
+}",Android,
+rec0zqN9x9bGbQIbV,e46de7e1bcaaced9a54f1e9d0d2f800d,2021-05-14T10:25:01.641Z,da29ea40e3a72cbb4f3c249ca0c5caa7,84.6.22.224,e218d562523a9dfd9a1df365f46128c9,173c53429bc48388fa32c062a32bd5b0,Media Picker,"{
+  ""label"": ""Opened"",
+  ""options.allowFiles"": true,
+  ""options.allowImageLibrary"": true,
+  ""options.allowPhoto"": true,
+  ""options.allowVideo"": true,
+  ""screen"": ""help_claim_step"",
+  ""session_id"": 1620994589979
+}",iOS,Apple iPhone 12
+rec0zqy9DBLWg1DMO,a8f15eda80c50adb0e71943adc8015cf,2021-05-22T13:11:06.971Z,8106df1e990904b822b5d99510eb34a1,93.22.135.220,1f93928d12be802a3e7be7eafa2f968d,eefca966b3c93f029e2138060b7469ed,Notification Received,"{
+  ""from_background"": true,
+  ""luko_landing_page"": ""DOOR_EVENTS"",
+  ""luko_push_type"": ""door_event_start"",
+  ""luko_url"": ""luko://protect-door"",
+  ""session_id"": 1621696266835
+}",Android,
+rec0zuCuKCzjnW8nG,d1fe173d08e959397adf34b1d77e88d7,2021-05-04T11:16:24.657Z,76b27342708038319c27b1c469af54ca,77.204.146.65,c9535ee549d198a4b146a5a81e0a6450,0163a9a93dfdea9c415399cb214c36e0,Viewed protect_bridge_settings Screen,"{
+  ""online"": true,
+  ""session_id"": 1620134130418,
+  ""wifiLevel"": ""GOOD""
+}",Android,Samsung Galaxy S20+
+rec100OnP1Zp4Cwp4,1c9ac0159c94d8d0cbedc973445af2da,2021-05-07T09:15:03.832Z,04606337b322ba8e591ad35c0cf784bf,78.222.128.162,194da104de80eb4f5c21a217be78b968,0d779177ddfa3608afaf57e934e1571a,Application Backgrounded,"{
+  ""screen"": ""cover"",
+  ""session_id"": 1620385835708
+}",iOS,Apple iPhone SE 2nd Gen
+rec10RPlQKLMLCYst,da4fb5c6e93e74d3df8527599fa62642,2021-05-24T15:42:03.103Z,0e0aa0ac3d4d770a5415120f3d858d93,78.240.184.18,c4525d4b0ad85bb7ed6e5f31fbe008ce,9fdeee5319a90014703645fb909279d3,Application Backgrounded,"{
+  ""screen"": ""profile_informations"",
+  ""session_id"": 1621878019016
+}",iOS,Apple iPhone 6s
+rec10VRSIzgEXZw7j,33e75ff09dd601bbe69f351039152189,2021-05-18T10:43:33.630Z,df2d26f2b9a468c9208939de82ddb61b,92.94.6.108,,8c35baa8c2afdeee530be73630d50acd,Authorization Failed,"{
+  ""label"": ""Location"",
+  ""screen"": ""help_request"",
+  ""session_id"": 1621341593398
+}",Android,Samsung Galaxy A51
+rec10qzSSv69OOWco,19ca14e7ea6328a42e0eb13d585e4c22,2021-05-01T04:49:10.718Z,6df96765fad12d0b0a59a052713cb5e7,89.95.196.248,,8d82914dc46fdb3d09fe50e5fa613058,Viewed help_claim_step Screen,"{
+  ""claimType"": ""CivilLiability"",
+  ""questionId"": ""selected_single"",
+  ""questionType"": ""SELECT_SINGLE"",
+  ""session_id"": 1619851534566,
+  ""stepId"": 2149483
+}",iOS,Apple iPhone X
+rec118ER3wZVZ01Il,46515dcd99ea50dd0671bc6840830404,2021-05-26T13:46:14.714Z,9b2632f9a843d562705cf340439bd9c9,176.129.160.65,8071b4c2068b888519df6f9643433a5b,2da7b4e6c63ae82a631932e399d263d3,Error Occured,"{
+  ""screen"": ""welcome_login"",
+  ""session_id"": 1622043722476,
+  ""showed"": ""YES"",
+  ""type"": ""LOGIN_FAILURE"",
+  ""userMessage"": ""Email or password incorrect""
+}",iOS,
+rec11hJWJM7WxQE2Q,c0c7c76d30bd3dcaefc96f40275bdc0a,2021-05-04T09:30:19.793Z,84244fc392a5a7b30b288196e6499c69,81.220.22.106,95f8d9901ca8878e291552f001f67692,a85f80b95e59590c1dc5ef53eaf30e27,Viewed protect Screen,"{
+  ""cards"": [
+    ""Bridge"",
+    ""Power"",
+    ""Door""
+  ],
+  ""items"": [
+    ""Settings""
+  ],
+  ""notifications"": [
+    ""Door - Labelling""
+  ],
+  ""session_id"": 1620127818778
+}",Android,Google Pixel 5
+rec13SZVKOAgJCwmo,c51ce410c124a10e0db5e4b97fc2af39,2021-05-05T09:01:03.753Z,1516bbeb254ae4997bcac570b4c10491,91.69.244.29,e7ae0af7f576839f0ababb817c71e236,d0d6a00efe3229d6a408470e211c4b33,Viewed cover_contract_resume Screen,"{
+  ""contractId"": 90242,
+  ""product"": ""MRH"",
+  ""session_id"": 1620212462114
+}",iOS,Apple iPhone 12 Mini
+rec13cG8bCYteCRNj,d67d8ab4f4c10bf22aa353e27879133c,2021-05-22T16:41:32.555Z,f4b0b6da8be06594d47cf825da9e6b6f,86.75.44.233,8887d238b7d1f083ab3825ef37bedd76,11874442d27d123beb6c998ce522dc1b,Application Closed,"{
+  ""screen"": ""profile"",
+  ""session_id"": 1621708875380
+}",Android,
+rec13oUwVWTLHCx6v,e4da3b7fbbce2345d7772b0674a318d5,2021-05-26T09:50:33.488Z,d3f9c418d4bade5e408f52e0511767a8,47.60.37.130,3efeff9dbd6bfd7ccc698c0baf52740c,2c9f7801e651532f15d146ecf5a10a54,Error Occured,"{
+  ""devMessage"": ""Error fetch user claims : Error: GraphQL error: Missing Session token. Unauthorized access."",
+  ""screen"": ""cover"",
+  ""session_id"": 1622029831538,
+  ""showed"": ""YES"",
+  ""type"": ""FETCH_USER_CLAIMS_FAILURE"",
+  ""userMessage"": ""An error has occurred""
+}",iOS,Apple iPhone 6s
+rec13tXtC12HvoNJH,1068c6e4c8051cfd4e9ea8072e3189e2,2021-05-19T20:34:10.478Z,bea61c591fce3483cdaff53ec2794c24,93.23.104.116,2b63b2ccc00d194fcd823680cf0f401f,2dcf78c6a44e93605dedb55a3c7e3ebb,Viewed contract_documents Screen,"{
+  ""session_id"": 1621463595951,
+  ""type"": ""MRH""
+}",iOS,Apple iPhone 11
+rec14Aq25ntS1D460,6ea9ab1baa0efb9e19094440c317e21b,2021-05-13T18:36:45.182Z,32329ee5ed30558a1db21b69a5d742c7,91.172.197.109,,87c53ab9e1b8d0a1f39de569cc630e72,Amend Requested,"{
+  ""label"": ""ADD_CHILD"",
+  ""screen"": ""contract_beneficiaries_edit"",
+  ""session_id"": 1620937897553,
+  ""type"": ""HU""
+}",iOS,Apple iPhone XR
+rec14S6Zuba8mxtnU,9a1de01f893e0d2551ecbb7ce4dc963e,2021-05-09T15:37:27.407Z,35b067f75bd91381ea4b2c5be8eba5a7,185.13.106.219,02ff1fa35bacc1643287baab70d1ce52,ab3309e343e1fead7808362d56a06477,Viewed cover Screen,"{
+  ""session_id"": 1620581846542
+}",Android,
+rec15PEN8jIW1SA0w,17e62166fc8586dfa4d1bc0e1742c08b,2021-05-24T19:44:10.757Z,6bdca5666bd99149c5fc76ce558e9de5,91.165.175.138,,37624bffb1d0bdb55a63486b32da8839,Error Occured,"{
+  ""screen"": ""welcome_signup"",
+  ""session_id"": 1621892492316,
+  ""showed"": ""YES"",
+  ""type"": ""LOGIN_FAILURE"",
+  ""userMessage"": ""E-mail ou mot de passe incorrect""
+}",Android,Huawei Mate 20 lite
+rec15TFFZvBs8I4W6,9bf31c7ff062936a96d3c8bd1f8f2ff3,2021-05-27T15:19:50.220Z,3ef5b4fdea68cf625989e06b87b0d432,37.170.119.139,,318c079f234839f6e1294f725f936023,Login Failed,"{
+  ""screen"": ""welcome_signup"",
+  ""session_id"": 1622135899506
+}",iOS,Apple iPhone 8
+rec15XSkEJ24Z7JNm,d09bf41544a3365a46c9077ebb5e35c3,2021-05-20T10:06:39.597Z,b1ac7dba19f894decf62428366215c3e,41.188.38.138,,a68cc86673392d7e41e351d3e4f31103,Error Occured,"{
+  ""screen"": ""welcome_login"",
+  ""session_id"": 1621512314084,
+  ""showed"": ""YES"",
+  ""type"": ""LOGIN_FAILURE"",
+  ""userMessage"": ""E-mail ou mot de passe incorrect""
+}",Android,
+rec16Uof84fak4LGy,6f4922f45568161a8cdf4ad2299f6d23,2021-05-03T12:00:23.724Z,1b9cbd2e0ccb644a4ac1a51091349973,93.29.181.92,,c19a947d0431e8d248291a101df2c6fb,Viewed contract_documents Screen,"{
+  ""session_id"": 1620050238915,
+  ""type"": ""MRH""
+}",Android,
+rec16WMFT8mDtzeQp,d82118376df344b0010f53909b961db3,2021-05-13T12:11:45.423Z,2d11d5564c0bcbf593c75ff978bdb218,93.22.38.70,a1a318eeacbe674c04031c4f7adbb2e7,ebcd8360b3333bfaafd55132a8b75b46,Application Closed,"{
+  ""screen"": ""profile"",
+  ""session_id"": 1620915101070
+}",iOS,Apple iPhone 11 Pro
+rec17NQ2tBPrGzPpS,70efdf2ec9b086079795c442636b55fb,2021-05-08T12:50:50.813Z,03d8cb4be1d3df6e043d782bc91012ba,78.192.214.239,,727fb4e1100ecfa6de1284e90635b7c6,Application Opened,"{
+  ""from_background"": true,
+  ""screen"": ""welcome_login"",
+  ""session_id"": 1620485350253
+}",iOS,Apple iPhone X
+rec19ffP0sBZn1PMh,eecca5b6365d9607ee5a9d336962c534,2021-05-06T05:59:09.638Z,783d8034736f6813cdc8bd78ffb0f92a,37.164.22.171,77c223a3bf35a3e71230e9ef2aa407a1,2a9c32a63841fa12a66f1d1c6622bd24,Viewed help_request Screen,"{
+  ""session_id"": 1620287884182
+}",Android,Samsung Galaxy A8
+rec1A4WOw1WphOBBR,093f65e080a295f8076b1c5722a46aa2,2021-05-10T13:22:02.419Z,340d2a923632d9a0ade44ec7410fbec4,94.238.187.96,,b14f513ff82effffeeacb40eb05e2a96,Viewed welcome_slider1 Screen,"{
+  ""session_id"": 1620660115893
+}",iOS,Apple iPhone XR
+rec1C1JHEUEJO2IFl,d3d9446802a44259755d38e6d163e820,2021-05-09T17:07:02.909Z,62acfbf76f5d573a36546534cb811a57,90.8.166.149,,776db768eec993975959b431ba5daaac,Application Backgrounded,"{
+  ""screen"": ""welcome_signup"",
+  ""session_id"": 1620587204872
+}",iOS,Apple iPhone 12
+rec1CR2QdHT3DHd8I,9b72e31dac81715466cd580a448cf823,2021-05-19T13:11:43.847Z,604a959227c202534e6f624ed1fb09c3,92.184.116.31,9c110fa312e5223724a41c1dc4fabcb4,cea830e09aa796c6321a03d061438a26,Application Backgrounded,"{
+  ""screen"": ""cover"",
+  ""session_id"": 1621437021064
+}",iOS,Apple iPhone SE 2nd Gen
+rec1CWQewTbE4SpMk,19ca14e7ea6328a42e0eb13d585e4c22,2021-05-07T05:46:13.320Z,902bed1eeb553b7d12e2e5b09968e21c,163.5.2.32,,e8561cc1d9cc7ec065cae449c53e6f63,Viewed help_claim_step Screen,"{
+  ""claimType"": ""WaterDamage"",
+  ""questionId"": ""selected"",
+  ""questionType"": ""SELECT_SINGLE"",
+  ""session_id"": 1620373448934,
+  ""stepId"": 2188298
+}",iOS,Apple iPhone 12 Pro

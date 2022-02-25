@@ -1,0 +1,675 @@
+,ID,CREATED_AT,DEVICE_ID,IP_ADDRESS,UUID,EVENT_TYPE,METADATA,USER_EMAIL,USER_ID
+rec024euwps37tiFW,d67d8ab4f4c10bf22aa353e27879133c,2021-05-20T13:49:15.836Z,069d4e2d41c59d0d41ee6cbbd65067a4,2a01:cb08:b00:5800:7171:5773:fdf4:293f,452c7d9cc72cdb2924565556f7f094e1,Step Submitted,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Mobile/15E148 Safari/604.1"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding/"",
+  ""page_title"": ""Souscription | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",,
+rec026EGl1OIF5Yzm,c4ca4238a0b923820dcc509a6f75849b,2021-05-09T20:29:06.440Z,7b8f71802fe31d6702478c0d7e3d9098,107.178.203.208,c2822be2c9ad8d9540535db17c20770f,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4420.0 Safari/537.36 Chrome-Lighthouse"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/"",
+  ""page_title"": ""Luko, l'Assurance Habitation en Ligne. Déjà 100 000 assurés."",
+  ""page_url"": ""https://www.luko.eu""
+}",,
+rec02vAapy37njOcj,6c8349cc7260ae62e3b1396831a8398f,2021-05-30T10:16:09.511Z,fb921ded20dfd8c0cf9d7cdbcfab3dc7,2a01:e0a:92b:a330:142c:c059:9cd5:c37a,21668d785893de403b04a07c7af73dab,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding/pricing"",
+  ""page_title"": ""Mon offre | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",3dd827df24e1c5cd94181c020f3fd12c,
+rec03MEmZbJ7TuxYq,6f4922f45568161a8cdf4ad2299f6d23,2021-05-03T10:13:45.376Z,d3320a20692902716c189c043d216f7e,2a01:e34:ee25:35c0:29b3:81b9:10f2:4216,00ee4a136696de21e1290ba9f643821e,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Linux; Android 8.1.0; DUA-L22) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.93 Mobile Safari/537.36"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/"",
+  ""page_search"": ""?utm_source=google&utm_medium=cpc&utm_campaign=1%3A%20SN%20%7C%202%3A%20Acq%20%7C%203%3A%20Brand%20%7C%204%3A%20Fr%20%7C%206%3A%20product_brand&utm_term=Brand%20-%20Luko%20%20%20generic&utm_content=luko%20assurance&keyword=luko%20assurance&d=m&gclid=Cj0KCQjwvr6EBhDOARIsAPpqUPHMgE1rs2Cw0XnpYJFF8x3aJkEGj7iCLGEN9NiRs9u3_ABgZCpFM_8aAqn8EALw_wcB"",
+  ""page_title"": ""Luko, l'Assurance Habitation en Ligne. Déjà 100 000 assurés."",
+  ""page_url"": ""https://www.luko.eu""
+}",,
+rec04T8tOq3jMveKo,a87ff679a2f3e71d9181a67b7542122c,2021-05-07T18:08:56.036Z,788435955556cefd3e37aa61bbb43324,89.82.209.172,2236d338dd2a485ab9e7160d41a379fc,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG SM-A520F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/14.0 Chrome/87.0.4280.141 Mobile Safari/537.36"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding/pricing/mrh"",
+  ""page_search"": ""?utm_source=partner&utm_campaign=reassurez-moi&utm_content=api"",
+  ""page_title"": ""Mon offre | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",6f3cce8ad8b6e29a4fff62a4118ed0ce,
+rec06gQhXkZBoGTB2,1679091c5a880faf6fb5e6087eb1b2dc,2021-05-21T07:12:05.248Z,8b30f715664f6048854b537b15f6049a,165.225.77.53,ec368f19656c9993880e1ae5fddee834,Luko Page,{},,
+rec070KRyD0JAfalQ,17e62166fc8586dfa4d1bc0e1742c08b,2021-05-03T11:34:47.007Z,25ccf3bc452ba1c56f32389583a0e2e4,194.177.46.26,05ec1c0b4bd360d0ab43ab2e5c42ecee,API Error,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.51"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding"",
+  ""page_title"": ""Souscription | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",,
+rec079YgqA12Isknv,c4ca4238a0b923820dcc509a6f75849b,2021-05-31T10:11:19.369Z,541bcb4adafcbe82866d3534c9d8d43e,139.26.48.126,90ba1bb36fd27e3b5c9e71b5f1f8ad05,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Linux; Android 6.0; U FEEL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Mobile Safari/537.36"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding"",
+  ""page_search"": ""?utm_source=partner&utm_medium=realestate&utm_campaign=gererseul&partner_user_id=gererseul"",
+  ""page_title"": ""Luko • L’Assurance Habitation en Ligne qui protège votre foyer"",
+  ""page_url"": ""https://www.luko.eu""
+}",,
+rec07E7oSRCPgImdE,92c8c96e4c37100777c7190b76d28233,2021-05-17T10:52:31.601Z,13f5d4db6e66719bf68c6d0dc9b24179,176.159.22.220,70e26eacd1604142b472e877a68fcf1d,Step Submitted,"{
+  ""browser_user_agent"": ""luko-react-native-webview"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding/mrh"",
+  ""page_search"": ""?webview=true"",
+  ""page_title"": ""Souscription | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",5b30510584066927aafff8705e423e89,60637edf42a2e68dc9d6fcfd9ac839a9
+rec07RJuWKuxRRLjN,e4da3b7fbbce2345d7772b0674a318d5,2021-05-05T14:35:13.594Z,a030250e48c9c0a06c5c01a231cbec4b,165.225.76.235,ac1c1a32ed03af843464ec44bbeeaeb2,Luko Page,{},,
+rec07vWNIjo2yGSWI,c4ca4238a0b923820dcc509a6f75849b,2021-05-15T02:44:51.842Z,7d55b1bbc7971424f0f8985492728fe3,2a04:cec0:100a:1cf3:331d:14ff:8d1b:32c1,50cc6a9ebc1b5222a070884c40770ca6,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Linux; Android 10; Redmi Note 7 Build/QKQ1.190910.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/317.0.0.51.119;]"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/"",
+  ""page_search"": ""?utm_source=facebook&utm_medium=paidsocial&utm_campaign=23848159711800678&utm_content=competitive_image_owned_assurance-100%25-habitation-v3+-+Copie+2&utm_term=23848159717540678&fbclid=IwAR1JlvUTjnG1b70xH4GUwOxT1Pxf_jRMSBUWql4UETFXEqixgjzz_O-5OHM"",
+  ""page_title"": ""Luko, l'Assurance Habitation en Ligne. Déjà 100 000 assurés."",
+  ""page_url"": ""https://www.luko.eu""
+}",,
+rec09FgAMe1Zb4Oq6,36660e59856b4de58a219bcf4e27eba3,2021-05-16T15:57:01.176Z,a3ec506b5d2c016fa88dda2c94eecdb7,77.134.143.193,e9ec1119569e4472d6bdfcd8da942008,Step Submitted,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding/mrh"",
+  ""page_title"": ""Souscription | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",a16b09620bc66b1a2b47f4352c97c12c,
+rec09XiZUTtuG0PvS,32bb90e8976aab5298d5da10fe66f21d,2021-05-26T07:10:20.760Z,5c5e6993993f2b837f94911061c8b25b,2a02:8440:3300:a2d2:8c0c:3ca0:c852:4e19,315627f2e1f7ce853b7ee6ff71d55b40,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (iPhone; CPU iPhone OS 14_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/71.1.241847734 Mobile/15E148 Safari/605.1"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding/pricing"",
+  ""page_title"": ""Souscription | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",8c26c83255d50737cd298fcb28f3121d,
+rec09gm8Cfy38igbt,a5bfc9e07964f8dddeb95fc584cd965d,2021-05-15T12:58:51.611Z,e27f0c41ef36eafadfbda8e27093a50f,2a01:cb1a:20:b50a:a053:b4e3:17d7:e449,fc3b6e0a2d54716fbbe53f7916d51c1f,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (iPhone; CPU iPhone OS 14_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Mobile/15E148 Safari/604.1"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding/pricing"",
+  ""page_title"": ""Souscription | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",0d8e6e0fa2eee58ec0902f2b28e1b78d,
+rec0A0ePxO3LNREmc,f7e6c85504ce6e82442c770f7c8606f0,2021-05-09T11:28:29.752Z,56863fe50b80b5a4117466fcb097c5dc,83.202.145.213,5e36de70f95141b66b1cf5b62bb115ac,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding/success"",
+  ""page_title"": ""Mon offre | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",7cded3aeb9085be66e47f122d206bcbc,00036f182bb0746fc8048d8e0bc785b3
+rec0AyBVAMaBcgK15,a87ff679a2f3e71d9181a67b7542122c,2021-05-08T08:33:19.345Z,838126b2300da1b3b2b78f59bd18a30e,2a01:cb09:e065:afc1:c960:ec52:6e8d:32e9,7505d8d011569b0209ebd62cc23d8a50,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Mobile/15E148 Safari/604.1"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding/mrh"",
+  ""page_search"": ""?skipaddress=true"",
+  ""page_title"": ""Luko • L’Assurance Habitation en Ligne qui protège votre foyer"",
+  ""page_url"": ""https://www.luko.eu""
+}",,
+rec0BefJfPzvLH5AW,d82c8d1619ad8176d665453cfb2e55f0,2021-05-17T15:52:49.801Z,609e6cf2f7fb737b5ce0ef2c1755511d,176.135.229.55,4e8f2803d4a30ccdc2c16bb61f591b92,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Linux; Android 11; SM-N770F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Mobile Safari/537.36"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding/mrh"",
+  ""page_title"": ""Souscription | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",7c6f53f89243cc643951de40bcb7c49e,
+rec0BzQizFJ24azjM,6364d3f0f495b6ab9dcf8d3b5c6e0b01,2021-05-28T12:18:13.140Z,1f87291219785e38a8fd7195cd1924b4,193.9.114.4,0a953a0a1b161cfe60cb735754dbdd62,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding/mrh"",
+  ""page_title"": ""Souscription | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",,
+rec0Chy6s2oJ6s05u,a1d0c6e83f027327d8461063f4ac58a6,2021-05-17T17:53:07.620Z,c4af2fe0745962517ce520b58e4a696e,2a01:cb05:8ed5:cc00:78f6:668c:ec00:7080,f7922957f07b6394f383b50a8f7a9870,Step Submitted,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Linux; Android 9; MRD-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Mobile Safari/537.36"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding/mrh"",
+  ""page_title"": ""Souscription | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",,
+rec0CnTeTpCRNgmNQ,d67d8ab4f4c10bf22aa353e27879133c,2021-05-08T14:14:34.482Z,1c80dd0239e507dc480f36759b393720,2a01:cb14:cec:a900:7927:8e6b:1743:1f1c,804ee6819b9bd33d7aaffe1cbe46fa35,Quote Seen,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding/pricing"",
+  ""page_title"": ""Mon offre | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",a510e20808b25441a0279d5d8a2424cc,
+rec0ECQfVwJMEgEY3,7647966b7343c29048673252e490f736,2021-05-03T09:11:14.152Z,504876843199eab55b89724415c7dba5,93.23.196.159,41e863a24d933d7a2723c0c9c391c5b0,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Linux; Android 9; MRD-LX1 Build/HUAWEIMRD-LX1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.82 Mobile Safari/537.36"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding/mrh"",
+  ""page_search"": ""?webview=true"",
+  ""page_title"": ""Souscription | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",6bdf12e8fdb1789461fa7596ece8f213,ac50c8b01e74f605a64ac86543f58c2a
+rec0GjLHMyj4ji7M2,e369853df766fa44e1ed0ff613f563bd,2021-05-01T21:26:57.296Z,d7956efae830cfd8029fed41c80a454b,90.254.18.98,373ea4cf44751b60cf0036d2656191f5,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Mobile/15E148 Safari/604.1"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding"",
+  ""page_title"": ""Souscription | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",,
+rec0Gqu3y7UpsMIqv,02e74f10e0327ad868d138f2b4fdd6f0,2021-05-17T09:51:57.548Z,fd2c1bf917b2fe3fd3b63a1b99d73b88,84.17.42.131,9ee105a44b07c8d8a73d7ef9d1ed9e79,Step Submitted,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding/mrh"",
+  ""page_title"": ""Souscription | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",,
+rec0IGYhT91b7Htia,98f13708210194c475687be6106a3b84,2021-05-18T12:14:03.460Z,ea65a57488c2901a567baec105fa504d,2a01:e0a:23d:c320:a08a:b6b2:b9cd:833a,8b49f220ca71fcef8e87e04b0ef4b133,Step Submitted,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding/mrh"",
+  ""page_title"": ""Souscription | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",,
+rec0Im6TvzQnFJ9Mv,1385974ed5904a438616ff7bdb3f7439,2021-05-11T06:30:04.496Z,321fd04324030f624cfb01b2b52399f3,92.184.123.13,3e7f93e9c830263118a5fff4a7a67339,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Linux; Android 11; Nokia 2.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding"",
+  ""page_title"": ""Souscription | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",897bca3d3367bfb56e46994b192f49f1,
+rec0Is9NrFY5tFPbX,44f683a84163b3523afe57c2e008bc8c,2021-05-06T05:38:52.976Z,a1f010f9d34446f7faf4a035b5ccaab8,86.238.240.131,a9c7f6c092b82e8f25fc7c475304678e,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding/mrh"",
+  ""page_title"": ""Souscription | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",a9e51c314ffce883b4343c8112d70949,
+rec0LuWGNKu8uOhJW,c4ca4238a0b923820dcc509a6f75849b,2021-05-12T12:39:36.567Z,57d4c85d69bffb5518617474b4018f7e,107.178.203.212,c27fb264eccf707bb817ba0e4a999315,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Linux; Android 7.0; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4420.0 Mobile Safari/537.36 Chrome-Lighthouse"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding"",
+  ""page_title"": ""Luko • L’Assurance Habitation en Ligne qui protège votre foyer"",
+  ""page_url"": ""https://www.luko.eu""
+}",,
+rec0MGfSedujwfIUE,c4ca4238a0b923820dcc509a6f75849b,2021-05-22T05:37:24.201Z,ab3ee50404dcf98d22772985b5ec763a,86.241.125.88,780c5868069b4c7e2dcc6c07ea0f629d,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Linux; Android 9; ANE-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Mobile Safari/537.36"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/conseils/guide/deduire-primes-assurance-revenus-fonciers"",
+  ""page_title"": ""Comment déduire les primes d’assurance de ses revenus fonciers"",
+  ""page_url"": ""https://www.luko.eu""
+}",,
+rec0MkLJtunprZtBf,a1d0c6e83f027327d8461063f4ac58a6,2021-05-18T10:02:12.615Z,50836e96a43738a8896cd0b324246569,2a01:e34:ecb2:3290:2876:1cf5:efa9:abc8,f4beeefc18ea84809dd7f2ddaa8f0444,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding/pricing"",
+  ""page_title"": ""Souscription | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",e2355604f266ace2a5f59350757436e7,
+rec0MnmyjT5AGOIrw,c4ca4238a0b923820dcc509a6f75849b,2021-05-24T21:17:13.069Z,ff46b11b239fd5ab845eb47d1b3700d2,37.167.156.37,d05f9b358a6e93c00dbe7aa987b12510,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Android 9; Mobile; rv:68.0) Gecko/68.0 Firefox/68.0"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/onboarding/pricing"",
+  ""page_search"": ""?pk=S7iu1uVP4A196sx9BK-LWw&utm_source=external&utm_medium=emailing&utm_campaign=dropcart_flat_1vqpom"",
+  ""page_title"": ""Luko • L’Assurance Habitation en Ligne qui protège votre foyer"",
+  ""page_url"": ""https://www.luko.eu""
+}",,
+rec0MyailSfzScO19,b6d767d2f8ed5d21a44b0e5886680cb9,2021-05-09T14:05:15.083Z,9684314d72bc78964a8575c145e93ba2,89.2.70.210,6a33b77772d8e3e31a9123d5d50c4f9a,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (iPhone; CPU iPhone OS 14_0_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/assurance/appartement"",
+  ""page_title"": ""Assurance appartement en ligne dès 4€ / mois"",
+  ""page_url"": ""https://www.luko.eu""
+}",,
+rec0NYv5Lwu4VeJ2i,fbd7939d674997cdb4692d34de8633c4,2021-05-19T16:54:52.066Z,e4a15fac1ad41f8b661bc366d5a1c349,89.86.214.252,eecfc2cd5ab7d715fdafbba79787d6cb,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Linux; Android 10; Redmi Note 9S) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Mobile Safari/537.36"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/onboarding/pricing"",
+  ""page_search"": ""?pk=ercDuZmT25xvlH3L_VrIgg&utm_source=external&utm_medium=emailing&utm_campaign=dropcart_flat_1vqpom"",
+  ""page_title"": ""Luko • L’Assurance Habitation en Ligne qui protège votre foyer"",
+  ""page_url"": ""https://www.luko.eu""
+}",,
+rec0OWB14S05HBnvy,e4da3b7fbbce2345d7772b0674a318d5,2021-05-10T05:02:18.640Z,4c9bf05f73a6a8bcb00d14f209a74c47,2a01:cb1d:36:1200:346f:2fef:6b73:77b7,8c27f07a4fdc3c618e5d9476288f95a1,Luko Page,{},,
+rec0PLPYBWt2hIhEa,aab3238922bcc25a6f606eb525ffdc56,2021-05-07T12:56:37.851Z,9ed5e4b873f33ca200667cdc45998da1,37.167.137.235,18aeb7ea9ef2bb9541d3b0c757794f0f,Button Clicked,{},,
+rec0Pqx3hbgHmHDSH,cfa0860e83a4c3a763a7e62d825349f7,2021-05-20T19:41:32.213Z,255cd475704d8df283676c8f33795b0d,46.253.45.196,de7a39c93f0b5482874b9ad9006728ae,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (iPhone; CPU iPhone OS 14_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 LightSpeed [FBAN/MessengerLiteForiOS;FBAV/262.1.0.71.117;FBBV/211898162;FBDV/iPhone9,1;FBMD/iPhone;FBSN/iOS;FBSV/14.5.1;FBSS/2;FBCR/;FBID/phone;FBLC/fr_FR;FBOP/0]"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding/mrh"",
+  ""page_title"": ""Souscription | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",fa8663cffb56670a304351679f9c4098,
+rec0SufXtY20TFGnm,c81e728d9d4c2f636f067f89cc14862c,2021-05-14T11:24:54.359Z,15c08b0714740e4192c761c1c32b11e2,83.201.143.148,fa97cd2af9e7df80b91175ce57f5ef6a,Cookies Consent Changed,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (iPhone; CPU iPhone OS 14_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Mobile/15E148 Safari/604.1"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/"",
+  ""page_search"": ""?utm_source=google&utm_medium=cpc&utm_campaign=1%3A%20SN%20%7C%202%3A%20Acq%20%7C%203%3A%20Generic%20%7C%206%3A%20product_mrh%20%7C%204%3A%20France&utm_term=1%3A%20Assurance%20Habitation%20-%20Pas%20Cher%20%7C%202%3A%20e-p-bm&utm_content=assurance%20habitation%20pas%20cher&keyword=assurance%20habitation%20pas%20cher&d=m&gclid=CjwKCAjwv_iEBhASEiwARoemvFz9jdWfCUpHFOC15qCCw-LgeGHlGz4RWUySKgsp8bMTS7MtLBwLKRoCJMcQAvD_BwE"",
+  ""page_title"": ""Luko, l'Assurance Habitation en Ligne. Déjà 100 000 assurés."",
+  ""page_url"": ""https://www.luko.eu""
+}",,
+rec0TKn5EWzCCGm2q,c51ce410c124a10e0db5e4b97fc2af39,2021-05-07T14:41:41.678Z,11ed4f8f62455a56ec16180ba44adf28,91.164.112.248,27c5db522f6ca68ac45f6f1b66440cc9,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding"",
+  ""page_title"": ""Souscription | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",2295e83cf749ac8040d1af50e01134fa,
+rec0TmoFDdrjIK4Oy,6f4922f45568161a8cdf4ad2299f6d23,2021-05-26T11:41:11.681Z,6063f34d9e391489112d645393f12bc2,2a01:e0a:2f9:b4e0:eddd:1655:3bbf:d2fd,69734486a6598658b9a87e8d3e3cf1ad,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding/mrh"",
+  ""page_title"": ""Souscription | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",,
+rec0TmvGffr4AEnck,c51ce410c124a10e0db5e4b97fc2af39,2021-05-13T12:34:03.171Z,cf1270e66bf6b493a06273552a0b3f10,41.214.86.128,a76bc62da35dfe87d17859dc28ee1cad,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Linux; Android 8.0.0; ATU-L21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.152 Mobile Safari/537.36"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding/mrh"",
+  ""page_title"": ""Souscription | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",,
+rec0U7Ag4bNYCYikG,45c48cce2e2d7fbdea1afc51c7c6ad26,2021-05-04T08:02:51.965Z,0608e37c69fcdb1a49c6e73736557be7,80.11.169.164,c24f1aeced87b0a5d9de82e16515f553,Luko Page,{},,
+rec0UA3v6ZlcFjGwz,d67d8ab4f4c10bf22aa353e27879133c,2021-05-05T11:33:37.385Z,405d425387a06825b7977a94ae6b8bb7,195.154.25.40,aa30bfbac8ea737366876f9fe3b16738,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/"",
+  ""page_title"": ""Luko, l'Assurance Habitation en Ligne. Déjà 100 000 assurés."",
+  ""page_url"": ""https://www.luko.eu""
+}",,
+rec0UYwmf6bpQTJvK,c4ca4238a0b923820dcc509a6f75849b,2021-05-25T12:49:54.712Z,e009157ff13c1e1959536e1ad294d3c8,165.225.77.32,57f51884d0380ce290c4194c44f69bff,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/conseils/guide/assurance-loyer-impaye"",
+  ""page_title"": ""Assurance loyer impayé : tout savoir sur la GLI"",
+  ""page_url"": ""https://www.luko.eu""
+}",,
+rec0VbppQ4tb8yqZ8,182be0c5cdcd5072bb1864cdee4d3d6e,2021-05-17T13:58:59.077Z,7fe7a2237b3e08e9c1b0728307b1de8d,93.19.119.211,f72f590ac0f0c3c2ff1f565581880aa3,Quote Seen,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (iPhone; CPU iPhone OS 14_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Mobile/15E148 Safari/604.1"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding/pricing"",
+  ""page_title"": ""Mon offre | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",a20386260d9f25af3c91f85d59cb0463,
+rec0WHzQIGaAzTCvf,c81e728d9d4c2f636f067f89cc14862c,2021-05-25T03:52:03.548Z,b692ce8bdb112b9514697546103fef40,2a01:cb10:192:de00:a85e:8470:1473:58c6,d89ac93c710c7bcb5a6f2b48e8b34337,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding"",
+  ""page_search"": ""?utm_source=google&utm_medium=cpc&utm_campaign=1%3A%20SN%20%7C%202%3A%20Acq%20%7C%203%3A%20Brand%20%7C%204%3A%20Fr%20%7C%206%3A%20product_brand&utm_term=Brand%20-%20Luko&utm_content=luko&keyword=luko&d=c&gclid=EAIaIQobChMI0Y3g9JHk8AIVDgGLCh1x2wx0EAAYASAAEgLy3vD_BwE"",
+  ""page_title"": ""Luko • L’Assurance Habitation en Ligne qui protège votre foyer"",
+  ""page_url"": ""https://www.luko.eu""
+}",,
+rec0WV09SCh1yvXfR,a87ff679a2f3e71d9181a67b7542122c,2021-05-27T18:40:13.576Z,e2232e46f7e58dfa73a194506ebcf0a2,37.120.215.245,95e21d510fb52b2838aaa417c6b0f034,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (iPad; CPU OS 14_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/160.0.373863126 Mobile/15E148 Safari/604.1"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/my-account/sign-in"",
+  ""page_search"": ""?redirect=%2F"",
+  ""page_title"": ""Espace personnel Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",9bb5494532e5052429c1623017da6b3e,d9beb34eaa1dba01040150173e461bbb
+rec0WXUexWaFZK5Hc,37693cfc748049e45d87b8c7d8b9aacd,2021-05-29T17:54:06.754Z,5dfced5cc35ffa40a46ae86e371efb4c,92.184.98.166,53ad3315bd6a2df7d485981e0c2fa352,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Linux; Android 10; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Mobile Safari/537.36"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding/mrh"",
+  ""page_title"": ""Souscription | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",,
+rec0WmICOD1owfSHr,c51ce410c124a10e0db5e4b97fc2af39,2021-05-07T13:04:03.978Z,a2ca11b31db31e8927e4d38d1dcd4bb0,40.94.97.46,ddef06d27d35f3d3ead460fdceb9a59e,API Error,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding"",
+  ""page_search"": ""?utm_source=partner&utm_medium=realestate&utm_campaign=gererseul&partner_user_id=gererseul"",
+  ""page_title"": ""Luko • L’Assurance Habitation en Ligne qui protège votre foyer"",
+  ""page_url"": ""https://www.luko.eu""
+}",,
+rec0ZCFFMJso748OW,6ea9ab1baa0efb9e19094440c317e21b,2021-05-15T13:26:59.694Z,50bac1c99943ceee903e11910c865394,2a01:e34:edae:84d0:bd2e:7f7b:9d3c:756d,9b45105ca0903b42bf52190c24ab67e2,Step Submitted,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (iPhone; CPU iPhone OS 14_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Mobile/15E148 Safari/604.1"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding/mrh"",
+  ""page_title"": ""Souscription | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",,
+rec0ZNIZS8s8UUSG4,19ca14e7ea6328a42e0eb13d585e4c22,2021-05-26T17:55:10.279Z,2a2c197dba340663abe3b9eac74e1f03,5.51.241.106,9f499d9dcdcc7349acd0620b23b6355e,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding/pricing"",
+  ""page_title"": ""Souscription | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",2b513bba12373f8eb083bb8dffcdc1ee,
+rec0ZSYzSDOEuIfH1,e4da3b7fbbce2345d7772b0674a318d5,2021-05-23T23:34:56.200Z,6c6ec127e2ae020af632c052d9cc2ac6,92.184.100.118,b1dc197022d6db5497a2be406939312e,Cookies Accepted,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Linux; Android 10; M2003J15SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/conseils/guide/assurance-pno-pour-les-proprietaires-immeuble"",
+  ""page_title"": ""L'assurance PNO pour les propriétaires d'immeuble"",
+  ""page_url"": ""https://www.luko.eu""
+}",,
+rec0b89DZ3IGtFm29,37693cfc748049e45d87b8c7d8b9aacd,2021-05-05T17:40:52.852Z,fc75fad4ce7989308dba9e03d96ad9c8,84.17.60.239,05fd77f561fbfe03860546c6fa9e91ae,Step Submitted,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding/mrh"",
+  ""page_title"": ""Souscription | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",,
+rec0beTEQiWGr00ux,8f14e45fceea167a5a36dedd4bea2543,2021-05-03T13:51:16.915Z,1367a36a14bea31551c58e4e64cc2679,2a01:cb09:b018:b8fa:196f:fbbf:9914:d940,c38720bd517d5b743d879d2ec35559a7,API Error,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (iPhone; CPU iPhone OS 14_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/87.0.4280.163 Mobile/15E148 Safari/604.1"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/onboarding/pricing/hu"",
+  ""page_search"": ""?pk=jgQrw3ILJ4O9c58rSUxmcg&utm_source=partner&utm_campaign=LeLynx&utm_content=api&utm_medium=Aggregator"",
+  ""page_title"": ""Mon offre | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",,
+rec0btyr53VFiJEt6,8e296a067a37563370ded05f5a3bf3ec,2021-05-20T12:16:54.063Z,d88eff9bffc9fe373fedeabbaa373fad,2a04:cec0:10dc:394c:911f:fcf7:de61:75cd,e78488f036f67f73ade78e7442c6cc19,Luko Page,"{
+  ""browser_user_agent"": ""luko-react-native-webview"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding/mrh"",
+  ""page_search"": ""?moving=90292&=undefined&&webview=true"",
+  ""page_title"": ""Souscription | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",0f90db36376a636861308c4233e9daa8,d96a432b17fe18b5ab02f16a3b850e75
+rec0buLCmRa4PmFoM,a87ff679a2f3e71d9181a67b7542122c,2021-05-19T14:12:22.408Z,3f1f48c13e5dd5e2c9558b4c0be28737,176.186.61.142,cfc14a7a75c0d9defc70d2f23c3e1bcb,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-G965F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/14.0 Chrome/87.0.4280.141 Mobile Safari/537.36"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding/pricing/hu"",
+  ""page_title"": ""Mon offre | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",764636985d609a5df92ac25921065a45,
+rec0cZ3Kc7iupiogS,e4da3b7fbbce2345d7772b0674a318d5,2021-05-19T14:12:24.792Z,3f1f48c13e5dd5e2c9558b4c0be28737,176.186.61.142,63018a0576aac35c59cae85624bb21ef,Quote Seen,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-G965F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/14.0 Chrome/87.0.4280.141 Mobile Safari/537.36"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding/pricing/hu"",
+  ""page_title"": ""Mon offre | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",764636985d609a5df92ac25921065a45,
+rec0dPUKAgAARt0SX,c4ca4238a0b923820dcc509a6f75849b,2021-05-21T14:20:14.619Z,19fa29da1f09475a2b0e0d0c70bccec6,154.126.10.18,e0fb2e671bfa0dad3f59fddd2ce47347,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Linux; Android 4.2.1; en-us; Nexus 5 Build/JOP40D) AppleWebKit/535.19 (KHTML, like Gecko; googleweblight) Chrome/38.0.1025.166 Mobile Safari/535.19"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/conseils/guide/definition-responsabilite-civile"",
+  ""page_title"": ""Définition Responsabilité Civile"",
+  ""page_url"": ""https://www.luko.eu""
+}",,
+rec0da1IY63Grga4N,19ca14e7ea6328a42e0eb13d585e4c22,2021-05-04T15:44:43.997Z,3a4b72bd3354a97b9132db2b9ec958c6,176.159.120.93,1b1e243830ebfa1e7ff839c9af2c4edb,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.1 Safari/605.1.15"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding"",
+  ""page_search"": ""?utm_source=google&utm_medium=cpc&utm_campaign=1%3A%20SN%20%7C%202%3A%20Acq%20%7C%203%3A%20Generic%20%7C%206%3A%20product_mrh%20%7C%204%3A%20Paris&utm_term=1%3A%20Assurance%20Habitation%20%7C%202%3A%20e&utm_content=assurance%20habitation&keyword=assurance%20habitation&d=c&gclid=Cj0KCQjw4cOEBhDMARIsAA3XDRjH2ZHZIl7uMYano57EiCoUB4XJUzgprjtlFeQuWcdODz0NsDbhQ5IaAnjcEALw_wcB"",
+  ""page_title"": ""Mon offre | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",,
+rec0dglZ91J7NGrlO,b53b3a3d6ab90ce0268229151c9bde11,2021-05-20T06:44:03.598Z,5d9a083b96b0d262cdc2b5aeb53df364,37.169.18.113,4cf5a69199b4f3012d2f71af05bcc95d,Luko Page,{},,
+rec0dhzjQ6sd7tkHx,6512bd43d9caa6e02c990b0a82652dca,2021-05-17T13:50:48.737Z,91283ff84c3340aa1139938d06ce952d,62.129.28.146,168c156399f1c6a515f98d553eb70718,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding/mrh"",
+  ""page_title"": ""Souscription | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",,
+rec0fPGNWJnIadtNt,c81e728d9d4c2f636f067f89cc14862c,2021-05-14T07:04:01.192Z,7f340d2fc308f18f602b2dde16054e8f,2a01:e0a:4b7:a90:5d51:d640:16f7:52cc,cc052afcd79047e29a198f30f00dad93,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/"",
+  ""page_search"": ""?utm_source=Partner&utm_medium=RealEstate&utm_campaign=lebonbail&utm_term=HomeFR"",
+  ""page_title"": ""Luko, l'Assurance Habitation en Ligne. Déjà 100 000 assurés."",
+  ""page_url"": ""https://www.luko.eu""
+}",,
+rec0h5BUJsC6IFyuo,6ea9ab1baa0efb9e19094440c317e21b,2021-05-06T09:59:39.206Z,b2f1e47aa8a18d73bbf457f19a3e3cf6,62.102.224.243,95e80dd1148640a2ea6803ed4ba5ba2a,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding/pricing"",
+  ""page_title"": ""Mon offre | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",8884c9578b3865198013b152ee499c20,
+rec0iZ6Zwklr8E4Dd,c4ca4238a0b923820dcc509a6f75849b,2021-05-27T05:29:10.758Z,1cbe605f8c9e785b958d0c48480e0ce8,2a01:cb00:f60:ca00:9c61:4a2a:1809:9c40,0ef5c153e8ff1885cca98a11254f8126,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/conseils/guide/definition-assurance-piece-a-vivre"",
+  ""page_title"": ""Définition Pièce à Vivre"",
+  ""page_url"": ""https://www.luko.eu""
+}",,
+rec0id6HyL1VH1N1X,7f1de29e6da19d22b51c68001e7e0e54,2021-05-03T07:05:13.008Z,a440384bc54a4f85a6a6db550e5f73cc,2a04:cec0:1089:a0a6:5c0e:7fb1:2422:ca46,15f63de3e15ad0ac3faec27cddd9193f,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Linux; Android 10; VOG-L29 Build/HUAWEIVOG-L29; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.91 Mobile Safari/537.36"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding/mrh"",
+  ""page_search"": ""?moving=86605&=undefined&&webview=true"",
+  ""page_title"": ""Souscription | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",8def9176d3d0d2f560209a8cd98d6b11,1814b05ab788df65c00249d90c8b6ecd
+rec0keAc4tjG5XLAl,c9f0f895fb98ab9159f51fd0297e236d,2021-05-07T07:57:57.457Z,3d83275ba25b28d6c8cf9a828b9337a8,140.94.82.30,d26a4cda7f5129bdf5f07616a29cb4bd,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/assurance/appartement"",
+  ""page_title"": ""Assurance appartement en ligne dès 4€ / mois"",
+  ""page_url"": ""https://www.luko.eu""
+}",,
+rec0khb86OWS26aq1,7f39f8317fbdb1988ef4c628eba02591,2021-05-13T07:01:26.356Z,39afe4748d8b7c45cc57f0e86edd0c34,37.167.87.107,534a30635bd6478a07af00c8d59fc5ab,Cookies Consent Changed,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Mobile/15E148 Safari/604.1"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding/pricing"",
+  ""page_title"": ""Mon offre | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",58ab6f3aa042d05e1ce91dd200a60b8c,
+rec0mX8rxeLzmQq4b,03afdbd66e7929b125f8597834fa83a4,2021-05-05T08:33:40.554Z,e178409e54515d799c06e9d81e0f99be,2a04:cec0:10da:fc8f:53c6:86be:21ce:fe18,52810e768a0303ed653501a55a4549e2,API Error,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Linux; U; Android 10; fr-fr; Redmi 8 Build/QKQ1.191014.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/71.0.3578.141 Mobile Safari/537.36 XiaoMi/MiuiBrowser/12.4.1-g"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding"",
+  ""page_search"": ""?utm_source=google&utm_medium=cpc&utm_campaign=1%3A%20SN%20%7C%202%3A%20Acq%20%7C%203%3A%20Generic%20%7C%206%3A%20product_mrh%20-%20Appartement%20%7C%204%3A%20Fr&utm_term=1%3A%20Assurance%20Appartement%20%7C%202%3A%20e-p-bm&utm_content=assurance%20appartement&keyword=assurance%20appartement&d=m&gclid=EAIaIQobChMIzoz0pquy8AIVb4BQBh2lMQLWEAAYBCAAEgJgDfD_BwE"",
+  ""page_title"": ""Souscription | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",,
+rec0nM1lh67CPckzr,45c48cce2e2d7fbdea1afc51c7c6ad26,2021-05-08T16:27:12.756Z,df52363c2c0b93f006ba5778413428cb,89.85.6.44,37ce86c42cac4bfcc9fd08d638af2364,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Linux; Android 10; SM-A202F Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.91 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/316.0.0.54.116;]"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding/pricing/mrh"",
+  ""page_search"": ""?utm_source=partner&utm_campaign=mongustave&utm_content=api&partner_user_id=4242ABCD"",
+  ""page_title"": ""Mon offre | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",d0348d07cdf3e0338c930989b23698c7,
+rec0oEhewxcYCMQjx,c4ca4238a0b923820dcc509a6f75849b,2021-05-29T06:10:02.915Z,20ef4ec6863772d657d97719e018c875,2a01:cb0c:c19:7e00:6987:88b1:43f:791c,80879615d4564abfc4236bf52db9034a,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Linux; Android 10; Redmi Note 9 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Mobile Safari/537.36"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/conseils/guide/hebergement-a-titre-gratuit"",
+  ""page_title"": ""Hébergement à titre gratuit : les règles à respecter"",
+  ""page_url"": ""https://www.luko.eu""
+}",,
+rec0p8Sc7NUNXDZDT,c4ca4238a0b923820dcc509a6f75849b,2021-05-14T15:01:49.794Z,c58077842657ceea935765700a673d94,2a01:e0a:50c:f020:ecc2:6e18:f32a:2bc6,dc78e11f47c065bab52898364b29abd8,Luko Page,{},,
+rec0pqLJTac8bWLV4,eccbc87e4b5ce2fe28308fd9f2a7baf3,2021-05-17T14:19:04.050Z,00134fc9a5963ff44b34496ca06edc6a,85.169.254.105,782e5667991b9986a085d4717acdc6d2,Cookies Refused,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/"",
+  ""page_title"": ""Luko, l'Assurance Habitation en Ligne. Déjà 100 000 assurés."",
+  ""page_url"": ""https://www.luko.eu""
+}",,
+rec0r9k0YWJAuWWS2,e369853df766fa44e1ed0ff613f563bd,2021-05-20T18:08:28.805Z,838b20e7b63a42d13a803c288fa5adbc,37.173.187.144,5e9276f74a3a81e12fe5860883541235,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Linux; Android 7.0; SM-G925F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.181 Mobile Safari/537.36"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/onboarding/pricing/mrh"",
+  ""page_search"": ""?pk=It2Yx36j100sDOO6A0JSTA&utm_source=partner&utm_campaign=LeLynx&utm_content=api&utm_medium=Aggregator"",
+  ""page_title"": ""Luko • L’Assurance Habitation en Ligne qui protège votre foyer"",
+  ""page_url"": ""https://www.luko.eu""
+}",,
+rec0tG8XCHdQsAAm0,4e732ced3463d06de0ca9a15b6153677,2021-05-28T12:54:47.574Z,16459fd6e50513e9f45e1ef6df5ca03c,193.56.243.6,7e91398330b4d8300d68192b9112d09a,Step Submitted,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Linux; Android 10; ONEPLUS A6010) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Mobile Safari/537.36"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding/nvei"",
+  ""page_search"": ""?utm_source=google&utm_medium=cpc&utm_campaign=1%3A%20SN%20%7C%202%3A%20Acq%20%7C%203%3A%20Brand%20%7C%204%3A%20France%20%7C%206%3A%20product_brand&utm_term=Brand%20-%20Luko%20%20%20NVEI&utm_content=%2Bluko%20%2Btrottinette&keyword=%2Bluko%20%2Btrottinette&d=m&gclid=CjwKCAjwqcKFBhAhEiwAfEr7zWNsRoZeozCsmJ0yqttymd2njb-YCQEwCFTINSV60NJHrHgBHf4RmxoCb5kQAvD_BwE"",
+  ""page_title"": ""Souscription | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",,
+rec0tuAioaumDqeCf,9bf31c7ff062936a96d3c8bd1f8f2ff3,2021-05-17T20:08:42.040Z,9c152f77e456f641bb642766d873200c,138.199.16.113,4fe8ede3799c01d105ed7334f284f060,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding/mrh"",
+  ""page_title"": ""Souscription | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",,
+rec0uQ5OOnRWbNyuy,45c48cce2e2d7fbdea1afc51c7c6ad26,2021-05-22T18:53:32.943Z,94e7cfdda56955b802dc010b19299797,2a01:cb11:496:a300:9993:7bba:3902:ab4e,e7554929698d11e96957ff10e8fecce3,Step Submitted,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Linux; Android 11; SM-N970F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding/mrh"",
+  ""page_title"": ""Souscription | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",,
+rec0vFTA1ITcZQfGn,c81e728d9d4c2f636f067f89cc14862c,2021-05-17T14:48:13.245Z,8352e23012f10bcafbeca0cdd6d1c8fe,2a01:cb1c:8d4:a800:a8c3:2eae:c086:44ef,5509abdda08549fcadfe6aa0d89e0eda,Cookies Consent Changed,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Version/13.1 (Ecosia ios@4.1.10.875) Safari/604.1"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/"",
+  ""page_title"": ""Luko, l'Assurance Habitation en Ligne. Déjà 100 000 assurés."",
+  ""page_url"": ""https://www.luko.eu""
+}",,
+rec0vJ1xXFhs77F80,17e62166fc8586dfa4d1bc0e1742c08b,2021-05-17T07:17:06.676Z,749b6f8e719cae7cf05cc93337de5565,87.231.159.107,9a97f158fda3dab9db363f7910593d88,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding/mrh"",
+  ""page_title"": ""Souscription | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",4f6df7c505cb441224721c9307f546e9,
+rec0y4TCK93QTSSnf,67c6a1e7ce56d3d6fa748ab6d9af3fd7,2021-05-08T14:47:43.731Z,440c575fb3c4da80827d5d8631576ec2,2a02:8440:3312:6a67:c48:2673:e8da:412b,554095e1f2e8b3113a69dcb84c6ffb23,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Mobile/15E148 Safari/604.1"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding/mrh"",
+  ""page_title"": ""Souscription | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",,
+rec0yjZUdR29Uy6hb,c81e728d9d4c2f636f067f89cc14862c,2021-05-05T10:08:11.392Z,23b74721be7ce2a0520b90fb8ee5150c,2a02:842a:857a:d801:95b4:bbbb:361d:31fa,76cc22b7781da30d59b7fd79d78e34ee,Cookies Consent Changed,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Linux; Android 11; SM-G973F Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.91 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/316.0.0.54.116;]"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/lancement/leon-alerte-immobiliere-short/"",
+  ""page_search"": ""?utm_source=facebook&utm_medium=paidsocial&utm_campaign=23847325293750678&utm_content=simple_image_owned_salon-leon-LP-short_&utm_term=23848105617980678&fbclid=IwAR2z-CG9aAGp3ET4iiafmBtawZcw40ijltAGpJ15dOsE-t5L-ulzdKvryp8"",
+  ""page_title"": ""Luko • L’Assurance Habitation en Ligne qui protège votre foyer"",
+  ""page_url"": ""https://www.luko.eu""
+}",,
+rec0zyK0gUhSmMfKk,c4ca4238a0b923820dcc509a6f75849b,2021-05-29T06:49:57.092Z,30bebd0db04f117135439049a07a3a5e,37.172.28.191,aa45f4d8f1f09774d1f77dd8ee60b412,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Linux; Android 10; CPH1941 Build/QKQ1.200209.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/avantages/"",
+  ""page_search"": ""?webview=true&"",
+  ""page_title"": ""Avantages Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",,
+rec10ASKDm2iFPgQB,9778d5d219c5080b9a6a17bef029331c,2021-05-27T16:44:29.574Z,73badb19025f5e3a57fcca3a2414e3f4,2a01:cb04:aa0:ee00:8864:1778:a893:8bdc,495bd3f04f42462fc5a2f0a0e7f82e56,Step Submitted,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Mobile/15E148 Safari/604.1"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding/mrh"",
+  ""page_title"": ""Souscription | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",ffcdb4af0a68d353a463c2f02ad43b5d,
+rec10wZqyMAoYRumi,c0c7c76d30bd3dcaefc96f40275bdc0a,2021-05-26T08:09:13.134Z,7ad34f2c4d5c4cd65a42eda5fb51f701,94.238.15.226,c7845db5fcc92da15a0f9722dcd16342,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding/mrh"",
+  ""page_title"": ""Mon offre | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",85b289a96c93f6f912d689bee61e92c0,
+rec11K4Kuhffw4vtE,44f683a84163b3523afe57c2e008bc8c,2021-05-05T09:54:19.034Z,774c98225dc5e74dee514743cc2ee4a4,217.109.152.80,ee3b24c08742ded93eef7a615482b669,Step Submitted,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Linux; Android 11; SM-G988B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding"",
+  ""page_search"": ""?utm_source=google&utm_medium=cpc&utm_campaign=1%3A%20SN%20%7C%202%3A%20Acq%20%7C%203%3A%20Generic%20%7C%206%3A%20product_mrh%20%7C%204%3A%20Paris&utm_term=1%3A%20Assurance%20Logement%20-%20En%20ligne%7CPas%20cher%7CDevis%20%7C%202%3A%20e%20p-bm%2a&utm_content=assurance%20logement%20pas%20cher&keyword=assurance%20logement%20pas%20cher&d=m&gclid=CjwKCAjwhMmEBhBwEiwAXwFoESCJbZMGar51m9mOUFTUSndy0N4zx8kiuoSHMCbypvqsLqc9_s1XYRoCWJIQAvD_BwE"",
+  ""page_title"": ""Souscription | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",,
+rec12BWvKg0RmytJR,42a0e188f5033bc65bf8d78622277c4e,2021-05-28T17:50:39.158Z,8dfc563d39c03b985bdeba0bb203ac8e,2a01:e0a:16f:6ac0:35e7:f523:b810:5074,b3e1085c8c97f9dc112508bf95698be1,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Linux; Android 10; SM-G965F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Mobile Safari/537.36"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding/pricing"",
+  ""page_title"": ""Luko • L’Assurance Habitation en Ligne qui protège votre foyer"",
+  ""page_url"": ""https://www.luko.eu""
+}",,
+rec13Do1hWQOytCOP,6ea9ab1baa0efb9e19094440c317e21b,2021-05-27T07:03:04.330Z,f27419795e3ba255fae6d852f9a3c741,37.168.25.205,efc256184a7956ca89272683288e6cd2,API Error,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (iPhone; CPU iPhone OS 14_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Mobile/15E148 Safari/604.1"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding"",
+  ""page_title"": ""Souscription | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",a5a2d48e068dac42ef35737248f5dd7c,
+rec13agK8NwTVCbD9,6f4922f45568161a8cdf4ad2299f6d23,2021-05-03T11:20:08.797Z,b74fa235165c64a01bfb3970ae9d868f,2a01:e0a:15e:a740:8ddd:3394:4ba4:b474,e750b8b8edbb8ce0d2c4e6af39faa023,Step Submitted,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding/mrh"",
+  ""page_title"": ""Souscription | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",,
+rec13lrkx61ZyMIq7,072b030ba126b2f4b2374f342be9ed44,2021-05-02T06:35:05.832Z,0b6e29c0c16398748177995ac1c672de,213.44.212.146,faac7504b65b6def85c8b83ab9fb211c,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding/nvei"",
+  ""page_search"": ""?nvei_type=escooter"",
+  ""page_title"": ""Luko • L’Assurance Habitation en Ligne qui protège votre foyer"",
+  ""page_url"": ""https://www.luko.eu""
+}",,
+rec155RMrhj3xIRVi,9bf31c7ff062936a96d3c8bd1f8f2ff3,2021-05-11T12:29:36.096Z,ecee6b4d527ed8056914bb515ca80be7,88.137.50.155,35f3ebd390f68cb8a3ee1e15342c19a0,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Linux; Android 10; M2007J3SG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding"",
+  ""page_search"": ""?utm_source=google&utm_medium=cpc&utm_campaign=1%3A%20SN%20%7C%202%3A%20Acq%20%7C%203%3A%20Generic%20%7C%206%3A%20product_mrh%20%7C%204%3A%20France&utm_term=1%3A%20Assurance%20Habitation%20-%20En%20ligne%20%7C%202%3A%20e&utm_content=assurance%20habitation%20en%20ligne&keyword=assurance%20habitation%20en%20ligne&d=m&gclid=CjwKCAjw1uiEBhBzEiwAO9B_Hc_1D3c2O6oUSpIrzY733m3vY56tNOUl5ePFPHFouUQh1H9vJNhLmhoCKxoQAvD_BwE"",
+  ""page_title"": ""Souscription | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",,
+rec15V0tWFEQZvHIK,3988c7f88ebcb58c6ce932b957b6f332,2021-05-19T06:57:34.466Z,4c6db33f755b77d0ca2c262e41baaec9,2a01:cb14:c28:2400:35fb:e820:fe19:13fd,aad8d13cf712ed04e725f22c0a3a88b4,Contract Paid,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding/pricing"",
+  ""page_title"": ""Mon offre | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",c56f7a848b52e7bfeb98e3bc2590a9e3,
+rec16b4aOdpTDqmBH,6ea9ab1baa0efb9e19094440c317e21b,2021-05-03T18:03:22.085Z,9cca44d83fff14040022fbea0efa8282,79.81.116.30,91a937c248d999c8f2d3caf8f70b7f6a,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding/pricing"",
+  ""page_title"": ""Souscription | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",,
+rec17lil4n1ACGBe5,19b650660b253761af189682e03501dd,2021-05-26T10:37:05.461Z,eef0f25ff48a317e403fa26f73c32bc0,93.20.41.4,4ca13d742174502f02d9e7160e51679e,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding/mrh"",
+  ""page_title"": ""Souscription | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",c05aa3e104023ef0fa0c7d0ac4085d66,
+rec19GAQ5Tpsl1VSM,812b4ba287f5ee0bc9d43bbf5bbe87fb,2021-05-17T11:05:57.529Z,d9b839f2d234da7238f252daaee4fd5b,78.203.181.7,70ffc35c08fb8371827727cf55e1e805,Step Submitted,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding/mrh"",
+  ""page_title"": ""Souscription | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",d989c8bed79ac09035ef62840da53f0f,
+rec1BQt3r8bnHcFdP,9bf31c7ff062936a96d3c8bd1f8f2ff3,2021-05-17T10:18:17.946Z,a0efa148b173c044232c4403f95d5ea1,81.185.160.66,5a68b1f7df9f1fbfdf312bf456226560,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Linux; Android 10; BE2029) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Mobile Safari/537.36"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding/pricing/hu"",
+  ""page_title"": ""Mon offre | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",4c4ba9de7dfdb144e74362a1b61af001,
+rec1ByaEWARyMGgEO,4c56ff4ce4aaf9573aa5dff913df997a,2021-05-18T15:07:31.408Z,0c1d793f7f903a26556d8d7563587ceb,2a01:e0a:d3:b0d0:e419:c8eb:d6e8:1e09,2298d00ebc1fa8e7cce7b82852bc5e54,Luko Page,{},,
+rec1CLbXLgjsPpHBV,9766527f2b5d3e95d4a733fcfb77bd7e,2021-05-10T09:38:13.518Z,1ee1e0e56849a8ad7a5ee5107a023bf7,2a01:e0a:89b:da0:21e4:2897:9fcb:d5c8,edc53f8be569ddeec8c4a6ccf8edd4c4,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr"",
+  ""page_title"": ""Luko, l'Assurance Habitation en Ligne. Déjà 100 000 assurés."",
+  ""page_url"": ""https://www.luko.eu""
+}",,
+rec1CuL2ZivAandzX,34173cb38f07f89ddbebc2ac9128303f,2021-05-13T15:27:06.228Z,d0e710655d8cbb1c3a16ec635516fd5d,2a01:cb16:24:b025:0:50:2932:4b01,6abf287c886f7ff069aaf6996576164e,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Linux; Android 11; SM-G980F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding/mrh"",
+  ""page_title"": ""Souscription | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",,
+rec1DsJ1HdBn0ST5h,eb163727917cbba1eea208541a643e74,2021-05-27T07:05:45.752Z,424baceec978ced4db258fc81fa9bc16,80.124.164.139,dbf98706c3b4730ee680517f63f528ac,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding/mrh"",
+  ""page_title"": ""Souscription | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",70a6cf5db8dd1957cf9d534c57859f8c,
+rec1Dsuypv9RnpCSV,3295c76acbf4caaed33c36b1b5fc2cb1,2021-05-29T06:54:47.402Z,d07b1ab357a991657c400aff0359740e,62.147.165.237,6272391da6a62c7ba929b80a8e75554d,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/my-account/contracts/59755/termination"",
+  ""page_title"": ""Espace personnel Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",53b4c9d1f5f2302390749ca264d7cc2c,9358b44910198ad751961fc0a43c97a5
+rec1EMrXGDxdDT1dD,d3d9446802a44259755d38e6d163e820,2021-05-16T06:36:06.576Z,17d5172eced8e086fc4f0a649364de6e,2001:861:3d80:9100:85e1:206f:8c27:460c,13b96a10b79802648a019b0dd6d1ca82,Luko Page,{},,
+rec1EZa9mX4T3a5md,d2ddea18f00665ce8623e36bd4e3c7c5,2021-05-12T05:06:37.667Z,d18f5dc2da75b70ddd5820f13f8eff8a,176.158.47.9,4622336d1e65fa7129285e4764716cab,Luko Page,"{
+  ""browser_user_agent"": ""Mozilla/5.0 (iPhone; CPU iPhone OS 14_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Mobile/15E148 Safari/604.1"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding/pricing"",
+  ""page_title"": ""Luko • L’Assurance Habitation en Ligne qui protège votre foyer"",
+  ""page_url"": ""https://www.luko.eu""
+}",d25533e602c7b4d40eeca12ad03d120a,
+rec1Fbndj66B0WQYJ,093f65e080a295f8076b1c5722a46aa2,2021-05-14T11:14:22.609Z,2567cd638124f8e4a19ddf3375331065,2a01:cb15:8241:f00:419b:8c3c:3b1b:1659,331959883a7fdf9046ad2a0adfcbe284,Luko Page,"{
+  ""browser_user_agent"": ""luko-react-native-webview"",
+  ""page_origin"": ""https://www.luko.eu"",
+  ""page_path"": ""/fr/onboarding/mrh"",
+  ""page_search"": ""?moving=97762&=undefined&&webview=true"",
+  ""page_title"": ""Souscription | Luko"",
+  ""page_url"": ""https://www.luko.eu""
+}",28e1ddb9d1eb9cf88c6dab0dcd8fd52c,bef91bd3892de6b68db0dd52d92b5370
