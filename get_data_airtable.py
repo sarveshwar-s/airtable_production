@@ -54,64 +54,78 @@ df_app_airtable.to_csv("data/app_event.csv")
 print(df_app_airtable.columns)
 
 
-# import numpy as np 
-# import pandas as pd
-# import redshift_connector 
+import numpy as np 
+import pandas as pd
+import redshift_connector 
 
-# # Connection credentials
-# HOST_NAME = "data-eng-test-cluster.ctfgtxaoukqr.eu-west-1.redshift.amazonaws.com"
-# PORT = 5439
-# USER = "chohan"
-# PASSWORD = "chohan_P@ssw0rd_Q7cm85"
-# SCHEMA = "chohan"
-# DB_NAME = "dev"
+# Connection credentials
+HOST_NAME = "data-eng-test-cluster.ctfgtxaoukqr.eu-west-1.redshift.amazonaws.com"
+PORT = 5439
+USER = "chohan"
+PASSWORD = "chohan_P@ssw0rd_Q7cm85"
+SCHEMA = "chohan"
+DB_NAME = "dev"
 
-# def redshift_create_table(df_app_airtable):
-#     # from sqlalchemy import create_engine
-#     # import pandas as pd
+def redshift_create_table(base_name, df_app_airtable):
+    connection = redshift_connector.connect(
+        host= HOST_NAME,
+        user = USER,
+        password = PASSWORD,
+        database = DB_NAME
+    )
 
-#     # conn = create_engine('postgresql://chohan:password@data-eng-test-cluster.ctfgtxaoukqr.eu-west-1.redshift.amazonaws.com:5439/dev?password=chohan_P@ssw0rd_Q7cm85')
+    cursor = connection.cursor()
+    # cursor.execute("drop table event")
+    cursor.execute("drop table event_two")
+    print("dropped table")
+    cursor.execute("create table event_two(ID varchar, CREATED_AT varchar, DEVICE_ID varchar, IP_ADDRESS varchar(1000), USER_ID varchar, UUID varchar(1500), EVENT_TYPE varchar(2000), EVENT_PROPERTIES varchar(3000), PLATFORM varchar(3000), DEVICE_TYPE varchar(3000))")
+    print("UPDATED_FILE")
+    # df_app_airtable.to_sql("event", con=conn, if_exists="append")
 
-#     connection = redshift_connector.connect(
-#         host= HOST_NAME,
-#         user = USER,
-#         password = PASSWORD,
-#         database = DB_NAME
-#     )
-
-#     cursor = connection.cursor()
-#     # cursor.execute("drop table event")
-#     # print("dropped table")
-#     # cursor.execute("create table event_two(ID varchar, CREATED_AT varchar, DEVICE_ID varchar, IP_ADDRESS varchar, USER_ID varchar, UUID varchar(1000), EVENT_TYPE varchar, EVENT_PROPERTIES varchar(3000), PLATFORM varchar(1000), DEVICE_TYPE varchar(3000))")
+    sql_insert_list = []
     
-#     # # df_app_airtable.to_sql("event", con=conn, if_exists="append")
-
-#     # sql_insert_list = []
-#     # insert_query = "insert into event(ID, CREATED_AT, DEVICE_ID, IP_ADDRESS, USER_ID, UUID, EVENT_TYPE, EVENT_PROPERTIES, PLATFORM,DEVICE_TYPE) values (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)"
-#     # for index, rows in df_app_airtable.iterrows():
-        
-#     #     cursor.execute(insert_query,(rows["ID"],rows["CREATED_AT"],rows["DEVICE_ID"],rows["IP_ADDRESS"],rows["USER_ID"],rows["UUID"],rows["EVENT_TYPE"],rows["EVENT_PROPERTIES"],rows["PLATFORM"], rows["DEVICE_TYPE"]))
-
-#     connection.commit()
-#     # print("inserted into db")    
+    if base_name == "App events":
+        insert_query = "insert into event_two(ID, CREATED_AT, DEVICE_ID, IP_ADDRESS, USER_ID, UUID, EVENT_TYPE, EVENT_PROPERTIES, PLATFORM,DEVICE_TYPE) values (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)"
+        for index, rows in df_app_airtable.iterrows():
+            
+            cursor.execute(insert_query,(rows["ID"],rows["CREATED_AT"],rows["DEVICE_ID"],rows["IP_ADDRESS"],rows["USER_ID"],rows["UUID"],rows["EVENT_TYPE"],rows["EVENT_PROPERTIES"],rows["PLATFORM"], rows["DEVICE_TYPE"]))
+    else:
+        insert_query = "insert into event_two(ID, CREATED_AT, DEVICE_ID, IP_ADDRESS, USER_ID, UUID, EVENT_TYPE, EVENT_PROPERTIES, PLATFORM) values (%s,%s,%s,%s,%s,%s,%s,%s)"
+        for index, rows in df_app_airtable.iterrows():
+            
+            cursor.execute(insert_query,(rows["ID"],rows["CREATED_AT"],rows["DEVICE_ID"],rows["IP_ADDRESS"],rows["USER_ID"],rows["UUID"],rows["EVENT_TYPE"]))
+    connection.commit()
+    print("inserted into db")    
     
-#     # To check if table exists.
-#     # cursor.execute("SELECT DISTINCT tablename FROM pg_table_def WHERE schemaname = 'chohan'")
-#     # results = cursor.fetchall()
-#     # print(type(results))
-#     # if results is not None:
-#     #     for x in results:
-#     #         print(type(x))
-#     #         if "event_two" in x:
-#     #             print("found table")
-#     #     print(results)
+    
+    cursor.execute("select * from event_two")
+    
+    results = cursor.fetchall()
 
     
-#     # conn.execute("select * from event")
-    
-#     # results = conn.fetchall()
+    print(results)
 
-    
-#     # print(results)
+import boto3
+import uuid
 
-# redshift_create_table(df_app_airtable)
+def upload_files():
+    ACCESS_KEY = "AKIAYRMVRRFXQ5DNUWGM"
+    SECRET_KEY = "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"
+    s3_resource = boto3.client('s3',
+    aws_access_key_id=ACCESS_KEY,
+    aws_secret_access_key=SECRET_KEY)
+
+    bucket_name = "luko-data-eng-exercice"
+
+
+    web_event_file = "data/web_event.csv"
+    app_event_file = "data/app_event.csv"
+    
+
+    # Upload file to bucket
+    s3_resource.upload_file(web_event_file, bucket_name, "chohan/web_event.csv")
+    print("uploaded")
+    s3_resource.upload_file(app_event_file,bucket_name, "chohan/app_event.csv")
+    print("uploaded")
+
+upload_files()
